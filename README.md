@@ -50,8 +50,13 @@
 <h2>🛠️ Dosya ve İndirme Seçenekleri</h2>
 <ul>
     <li>
-        <b>📥 <a href="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/raw/main/01-Eval-Calculator/mS_Calc.exe">mS_Calc.exe dosyasını indir</a></b> 
-        <br>(Programın derlenmiş, taşınabilir halidir. Kurulum gerektirmez.)
+        <b>💿 <a href="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/raw/main/01-Eval-Calculator/Hesap_Makinesi_Calc_Setup.exe">Hesap Makinesi Calc Setup (Kurulum Paketi) - ÖNERİLEN</a></b> 
+        <br>(Ses dosyaları ve tüm bileşenlerin otomatik yüklenmesi için bu dosyayı kullanın. Tam nostalji deneyimi sağlar.)
+    </li>
+    <br>
+    <li>
+        <b>📥 <a href="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/raw/main/01-Eval-Calculator/mS_Calc.exe">mS_Calc.exe (Taşınabilir Sürüm)</a></b> 
+        <br>(Kurulum gerektirmez. Not: Ses özellikleri için ilgili ses dosyalarının programla aynı dizinde olması gerekir.)
     </li>
     <br>
     <li>
