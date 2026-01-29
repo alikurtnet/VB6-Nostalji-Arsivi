@@ -50,12 +50,12 @@
 <h2>🛠️ Dosya ve İndirme Seçenekleri</h2>
 <ul>
     <li>
-        <b>📥 <a href="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/01-Eval-Calculator/mS_Calc.exe?raw=true">mS_Calc.exe dosyasını indir</a></b> 
+        <b>📥 <a href="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/raw/main/01-Eval-Calculator/mS_Calc.exe">mS_Calc.exe dosyasını indir</a></b> 
         <br>(Programın derlenmiş, taşınabilir halidir. Kurulum gerektirmez.)
     </li>
     <br>
     <li>
-        <b>📂 <a href="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/01-Eval-Calculator/Eval_calculator_source_code.zip?raw=true">Kaynak Kodlarını İndir (.zip)</a></b> 
+        <b>📂 <a href="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/raw/main/01-Eval-Calculator/Eval_calculator_source_code.zip">Kaynak Kodlarını İndir (.zip)</a></b> 
         <br>(Projenin orijinal Visual Basic 6 kaynak kodlarını içerir.)
     </li>
 </ul>
