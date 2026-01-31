@@ -90,5 +90,5 @@
 <p>Bu proje, 2000'li yılların forum kültüründen gelen yardımlaşma ve teknik dökümanların bir meyvesidir. Mühendislik hesaplamalarını tek bir çatı altında toplama fikriyle hayata geçirilmiştir.</p>
 
 <div align="center">
-    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images_calc/4_Calc_Full_Page.png?raw=true" alt="Tüm Sayfalar" width="100%">
+    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images_calc/4_Calc_Full_Page.gif?raw=true" alt="Tüm Sayfalar" width="100%">
 </div>
