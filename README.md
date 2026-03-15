@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyonel araçların koleksiyonudur.
+Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyonel araçların koleksiyonudur. 15 Mart 2026 itibarıyla tüm çalışma ortamları ve kaynak kodları geleceğe miras olarak dökümante edilmiştir.
 </p>
 
 <hr>
@@ -17,7 +17,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 <table bgcolor="#fff3cd">
     <tr>
         <td>
-            ⚠️ <b>ÖNEMLİ:</b> Uygulamalar <b>Visual Basic 6 (VB6)</b> tabanlıdır. Modern sistemlerde stabil çalışma ve ActiveX/DLL kütüphanelerinin otomatik kaydedilmesi için <b>Setup (MSI/EXE)</b> paketleri tercih edilmiştir. Şeffaflık adına kaynak kodlar her projenin altında sunulmuştur.
+            ⚠️ <b>ÖNEMLİ:</b> Uygulamalar <b>Visual Basic 6 (VB6)</b> tabanlıdır. Modern sistemlerde stabil çalışma ve ActiveX/DLL kütüphanelerinin otomatik kaydedilmesi için <b>Setup (MSI/EXE)</b> paketleri tercih edilmiştir. Şeffaflık adına her yayının altında tam kaynak kodları (Source Code) sunulmuştur.
         </td>
     </tr>
 </table>
@@ -25,39 +25,76 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 <hr>
 
 <details>
-<summary><h3>🧮 1. mS_Calc - Gelişmiş Mühendislik ve Matematik Aracı (TIKLA AÇ)</h3></summary>
+<summary><h3>🧮 1. ms_Calc - Hesap Makinesi (eval) (TIKLA AÇ)</h3></summary>
 
 > **Nostalji Serisi: No 1**
 
-<p>Birim çevrimlerinden mekanik hesaplamalara, denklem çözücülerden sesli geri bildirime kadar geniş yelpazeye sahip profesyonel bir yardımcı araçtır. 2000'li yılların başındaki mühendislik ruhunu modern sistemlere taşır.</p>
+<p>Birim çevrimlerinden mekanik hesaplamalara, denklem çözücülerden sesli geri bildirime kadar geniş yelpazeye sahip profesyonel bir yardımcı araçtır. Matematiksel ifadeleri eval mantığıyla çözümleyen bu uygulama, mühendislik ruhunu modern sistemlere taşır.</p>
 
 <div align="center">
     <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images_calc/4_Calc_Full_Page.gif?raw=true" alt="mS_Calc Önizleme" width="100%">
 </div>
 
 #### ✨ Öne Çıkan Özellikler:
-* **Mühendislik Modülleri:** Malzeme ağırlık (L, U, T profil), mekanik dişli çark ve kesme hızı hesapları.
-* **Matematik & Tarih:** 2. derece denklemler, olasılık, permütasyon ve gelişmiş takvim analizleri.
-* **Modernizasyon:** Arayüz tamamen **Tahoma** fontu ile yenilenmiş ve yüksek çözünürlük (DPI) desteği eklenmiştir.
-* **Sesli Destek:** Hesaplama sonuçlarını Windows ses motoru üzerinden sesli ifade edebilme.
-* **Entegrasyon:** `sheet-metal-die_calc_1` projesinin temelini oluşturan ilk kalıp modüllerini içerir.
+* **Mühendislik Modülleri:** Malzeme ağırlık, mekanik dişli çark ve kesme hızı hesapları.
+* **Modernizasyon:** Tahoma fontu ile yenilenmiş arayüz ve yüksek çözünürlük (DPI) desteği.
+* **Sesli Destek:** Hesaplama sonuçlarını Windows ses motoru üzerinden ifade edebilme.
 
-#### 🛠️ Kurulum ve Kaynak Kod:
-* 💿 **[mS_Calc Güncel Kurulum Paketi](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/raw/main/01-Eval-Calculator/Hesap-Makinesi-Calc.exe)** - *Setup paketini indirir.*
-* 📂 **[Kaynak Kod Arşivi (.zip)](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/raw/main/01-Eval-Calculator/Eval_calculator_source_code.zip)** - *Orijinal VB6 projelerini içerir.*
+#### 🛠️ İndirme ve Dökümantasyon:
+| Dosya / Bilgi | Açıklama | Bağlantı |
+| :--- | :--- | :--- |
+| 💿 **Kurulum (EXE)** | Taşınabilir Çalıştırılabilir Dosya | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0/ms_Calc.exe) |
+| 📂 **Kaynak Kod** | VB6 Proje Dosyaları (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/archive/refs/tags/v1.0.0.zip) |
+| 📖 **Detaylı İnceleme** | İşlevler ve Kullanım Kılavuzu | *[Teknik Dökümantasyon (Yakında)]* |
+
 </details>
 
 <details>
-<summary><h3>🎮 2. mS_Game - Zeka ve Strateji Oyunları (YAKINDA)</h3></summary>
-<p>VB6 ile geliştirilmiş, mantık yürütme ve zeka oyunlarını içeren paket. Çok yakında eklenecektir.</p>
+<summary><h3>📂 2. mS_Explorer - Dosya Yönetim Sistemi (TIKLA AÇ)</h3></summary>
+
+> **Nostalji Serisi: No 2**
+
+<p>Windows Explorer mantığıyla çalışan, gelişmiş dosya indeksleme, yedekleme ve sistem yönetimi araçlarını içeren kapsamlı bir Windows alternatifidir. 58 alt klasör ve 1100+ dosyadan oluşan devasa bir çalışma alanı içerir.</p>
+
+#### ✨ Öne Çıkan Özellikler:
+* **Gelişmiş İndeksleme:** Hızlı dosya arama, kategorizasyon ve yedekleme modülleri.
+* **Güvenli Kurulum:** ActiveX bileşenlerinin hatasız kaydı için MSI formatında sunulmuştur.
+* **Sistem Araçları:** Kayıt defteri düzenleyici ve sistem kilitlerini açma yardımcıları.
+
+#### 🛠️ İndirme ve Dökümantasyon:
+| Dosya / Bilgi | Açıklama | Bağlantı |
+| :--- | :--- | :--- |
+| 📦 **Kurulum (MSI)** | Windows Installer Paketi | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.1.0/mS_Explorer.msi) |
+| 📂 **Kaynak Kod** | Tam Çalışma Ortamı (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/archive/refs/tags/v1.1.0.zip) |
+| 📖 **Detaylı İnceleme** | Modüller ve Kod Yapısı Analizi | *[Teknik Dökümantasyon (Yakında)]* |
+
 </details>
 
 <details>
-<summary><h3>📂 3. mS_Explorer - Dosya Yönetim Sistemi (YAKINDA)</h3></summary>
-<p>Windows Explorer mantığıyla çalışan, özel dosya indeksleme ve yönetim aracı. Çok yakında eklenecektir.</p>
+<summary><h3>🎮 3. ms_Game - Nostaljik Oyun Arşivi (TIKLA AÇ)</h3></summary>
+
+> **Nostalji Serisi: No 3**
+
+<p>VB6 ile geliştirilmiş, mantık yürütme ve zeka oyunlarını içeren modüler bir koleksiyon. Algoritma mantığını nostaljik bir arayüzle sunar.</p>
+
+#### ✨ Öne Çıkan Özellikler:
+* **Zeka Oyunları:** Strateji ve mantık odaklı klasik VB6 oyunları.
+* **Modüler Yapı:** Bağımsız araçlarla (Örn: RoboCopy) entegre çalışabilme yeteneği.
+
+#### 🛠️ İndirme ve Dökümantasyon:
+| Dosya / Bilgi | Açıklama | Bağlantı |
+| :--- | :--- | :--- |
+| 💿 **Kurulum (EXE)** | Oyun Kurulum Paketi | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Game/Game-SetUp.exe) |
+| 📂 **Kaynak Kod** | Tüm Oyun Kaynakları (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/archive/refs/tags/v1.0.0-Game.zip) |
+| 📖 **Detaylı İnceleme** | Oyun Algoritmaları ve Geliştirme Notları | *[Teknik Dökümantasyon (Yakında)]* |
+
 </details>
 
 <hr>
 
 <h2>📜 Geliştirici Notu</h2>
-<p>Bu arşiv, 2000'li yılların forum kültüründen ve yardımlaşma ruhundan beslenerek bugünlere gelmiştir. Her bir satır kodda bir yaşanmışlık ve teknik çözüm arayışı vardır.</p>
+<p>Bu arşiv, forum kültüründen ve yardımlaşma ruhundan beslenerek bugünlere gelmiştir. Her bir satır kodda bir teknik çözüm arayışı ve mühendislik emeği vardır. Gelecekte bu projelerin modern dillerle (Python/PyQt5) olan dönüşüm yolculuğunu da yine bu profil üzerinden takip edebilirsiniz.</p>
+
+<div align="center">
+    <sub>© 2026 alikurtnet (Ali Kurt). Teknik Eğitimci & Yazılım Geliştirici.</sub>
+</div>
