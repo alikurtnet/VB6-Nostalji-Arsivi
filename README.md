@@ -1,94 +1,61 @@
-<h1 align="center">🧮 mS_Calc - Gelişmiş Mühendislik ve Matematik Aracı</h1>
-<blockquote align="center"><strong>Nostalji Serisi: No 1 (VB6 Özel Proje)</strong></blockquote>
+<h1 align="center">🏛️ VB6 Nostalji Arşivi</h1>
+<blockquote align="center"><strong>30 Yıllık Mühendislik ve Yazılım Serüveni</strong></blockquote>
 
 <div align="center">
-    <a href="https://www.virustotal.com/gui/file/c892f22f121c6e5fb207d4dc980e0e40b1969454b52056861886186d723cbebd?nocache=1">
-        <img src="https://img.shields.io/badge/VirusTotal-Clean-brightgreen?style=for-the-badge&logo=virustotal" alt="VirusTotal Status">
-    </a>
+    <img src="https://img.shields.io/badge/Language-VB6_/_VBA-blue" alt="Language">
+    <img src="https://img.shields.io/badge/Database-MS_Access-red" alt="Database">
+    <img src="https://img.shields.io/badge/Status-Active_Archive-brightgreen" alt="Status">
 </div>
 
-<p>Bu uygulama, sadece bir hesap makinesi değil; birim çevrimlerinden mekanik hesaplamalara, denklem çözücülerden sesli geri bildirime kadar geniş yelpazeye sahip bir yardımcı araçtır. 2000'li yılların başında <b>Visual Basic 6 (VB6)</b> ile geliştirilmiştir.</p>
+<p align="center">
+Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyonel araçların koleksiyonudur.
+</p>
 
 <hr>
 
-<h2>🛡️ Güvenlik ve Uyumluluk Notu</h2>
+<h2>🛡️ Güvenlik ve Kurulum Standartları</h2>
 <table bgcolor="#fff3cd">
     <tr>
         <td>
-            ⚠️ <b>ÖNEMLİ:</b> Uygulama <b>Visual Basic 6 (VB6)</b> tabanlıdır. Bu nedenle modern antivirüs yazılımları, çalışma mantığı ve runtime bağımlılıkları sebebiyle "Bilinmeyen Yayıncı" veya "Hatalı Pozitif (False Positive)" uyarıları verebilir. 
-            <br><br>
-            Kurulum paketimiz <b>VirusTotal</b> taramasından başarıyla geçmiştir. Şeffaflık adına projenin kaynak kodları da aşağıda paylaşılmıştır.
+            ⚠️ <b>ÖNEMLİ:</b> Uygulamalar <b>Visual Basic 6 (VB6)</b> tabanlıdır. Modern sistemlerde stabil çalışma için <b>MSI / Setup</b> paketleri tercih edilmiştir. Kaynak kodlar şeffaflık adına her projenin altında sunulmuştur.
         </td>
     </tr>
 </table>
 
 <hr>
 
-<h2>✨ Öne Çıkan Özellikler</h2>
+<details>
+<summary><h3>🧮 1. mS_Calc - Gelişmiş Mühendislik ve Matematik Aracı (TIKLA AÇ)</h3></summary>
 
-<h3>🚀 Ana Sayfa ve Fonksiyonellik</h3>
+> **Nostalji Serisi: No 1**
+
+<p>Birim çevrimlerinden mekanik hesaplamalara, denklem çözücülerden sesli geri bildirime kadar geniş yelpazeye sahip profesyonel bir yardımcı araçtır.</p>
+
 <div align="center">
-    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images_calc/1_Calc_Main_Page.png?raw=true" alt="Ana Sayfa" width="600">
+    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images_calc/4_Calc_Full_Page.gif?raw=true" alt="mS_Calc Önizleme" width="100%">
 </div>
-<ul>
-    <li><b>Esnek ve Hızlı Hesaplama:</b> Karmaşık matematiksel ifadeleri (Eval mantığıyla) doğrudan çözümleme.</li>
-    <li><b>Seslendirme Desteği:</b> Hesaplama sonuçlarını ve rakamları hem yazı formatına dönüştürür hem de Windows ses motorunu kullanarak sesli ifade eder.</li>
-</ul>
 
-<h3>📈 Sağ Kanat: Matematik ve Tarih (4 Sekme)</h3>
-<div align="center">
-    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images_calc/2_Calc_Right_Page.png?raw=true" alt="Sağ Kanat" width="600">
-</div>
-<ol>
-    <li><b>Tarih Hesaplamaları:</b> Belirli bir tarihe gün, ay, yıl ekleme veya çıkarma işlemleri.</li>
-    <li><b>Olasılık:</b> Permütasyon, Kombinasyon ve Olasılık hesapları.</li>
-    <li><b>1. Dereceden Denklemler:</b> İki bilinmeyenli denklem çözücü.</li>
-    <li><b>2. Dereceden Denklemler:</b> Bir bilinmeyenli denklem çözücü.</li>
-</ol>
+#### ✨ Öne Çıkan Özellikler:
+* **Matematik & Tarih:** 2. derece denklemler, olasılık ve takvim hesapları.
+* **Teknik Araçlar:** Malzeme ağırlık, mekanik dişli ve kesme hızı hesapları.
+* **Entegrasyon:** `sheet-metal-die_calc_1` projesinin temelini oluşturan ilk modülleri içerir.
 
-<h3>⚙️ Sol Kanat: Mühendislik ve Teknik Araçlar (7 Sekme)</h3>
-<div align="center">
-    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images_calc/3_Calc_Left_Page.png?raw=true" alt="Sol Kanat" width="600">
-</div>
-<ol>
-    <li><b>Birim Çevirici:</b> Teknik birimler arası hızlı dönüşüm.</li>
-    <li><b>Malzeme Hesabı:</b> Farklı kesitlerdeki malzemelerin alan ve ağırlık hesaplamaları.</li>
-    <li><b>Mekanik:</b> Düz ve Helis dişli çark eleman hesapları.</li>
-    <li><b>Geometri:</b> Eğim ve koniklik hesaplamaları.</li>
-    <li><b>Üretim:</b> Kesme hızı hesaplamaları.</li>
-    <li><b>Kalıp Verimi:</b> Sac metal kalıp verim hesapları. 
-        <br><i>(Bu modül daha sonra Python ile geliştirilerek ayrı bir uygulama olmuştur: <a href="https://github.com/alikurtnet/sheet-metal-die_calc_1">sheet-metal-die_calc_1</a>)</i>
-    </li>
-    <li><b>Matris Boyutları:</b> Dişi kalıp matris boyut hesaplamaları. 
-        <br><i>(Bu modül daha sonra Python ile geliştirilerek ayrı bir uygulama olmuştur: <a href="https://github.com/alikurtnet/sheet-metal-die_calc_1">sheet-metal-die_calc_1</a>)</i>
-    </li>
-</ol>
+#### 🛠️ İndirme:
+* 💿 **[Hesap Makinesi Calc Setup (MSI)](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/raw/main/01-Eval-Calculator/Hesap_Makinesi_Calc_Setup.msi)** - *Önerilen Kurulum*
+* 📂 **[Kaynak Kodları (.zip)](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/raw/main/01-Eval-Calculator/Eval_calculator_source_code.zip)**
+</details>
 
-<hr>
+<details>
+<summary><h3>🎮 2. mS_Game - Zeka ve Strateji Oyunları (YAKINDA)</h3></summary>
+<p>VB6 ile geliştirilmiş, mantık yürütme ve zeka oyunlarını içeren paket. Çok yakında eklenecektir.</p>
+</details>
 
-<h2>🛠️ Dosya ve İndirme Seçenekleri</h2>
-<ul>
-    <li>
-        <b>💿 <a href="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/raw/main/01-Eval-Calculator/Hesap_Makinesi_Calc_Setup.msi">Hesap Makinesi Calc Setup (MSI Paketi) - ÖNERİLEN</a></b> 
-        <br>(Sistem kütüphanelerini otomatik kaydeder ve tüm Windows sürümlerinde stabil çalışma sağlar.)
-    </li>
-    <br>
-    <li>
-        <b>📥 <a href="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/raw/main/01-Eval-Calculator/mS_Calc.exe">mS_Calc.exe (Taşınabilir Sürüm)</a></b> 
-        <br>(Kurulum gerektirmez. Not: DLL hataları alırsanız MSI sürümünü kullanın.)
-    </li>
-    <br>
-    <li>
-        <b>📂 <a href="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/raw/main/01-Eval-Calculator/Eval_calculator_source_code.zip">Kaynak Kodlarını İndir (.zip)</a></b> 
-        <br>(Projenin orijinal Visual Basic 6 kaynak kodlarını içerir.)
-    </li>
-</ul>
+<details>
+<summary><h3>📂 3. mS_Explorer - Dosya Yönetim Sistemi (YAKINDA)</h3></summary>
+<p>Windows Explorer mantığıyla çalışan, özel dosya indeksleme ve yönetim aracı. Çok yakında eklenecektir.</p>
+</details>
 
 <hr>
 
 <h2>📜 Geliştirici Notu</h2>
-<p>Bu proje, 2000'li yılların forum kültüründen gelen yardımlaşma ve teknik dökümanların bir meyvesidir. Mühendislik hesaplamalarını tek bir çatı altında toplama fikriyle hayata geçirilmiştir.</p>
-
-<div align="center">
-    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images_calc/4_Calc_Full_Page.gif?raw=true" alt="Tüm Sayfalar" width="100%">
-</div>
+<p>Bu arşiv, 2000'li yılların forum kültüründen ve yardımlaşma ruhundan beslenerek bugünlere gelmiştir. Her bir satır kodda bir yaşanmışlık ve teknik çözüm arayışı vardır.</p>
