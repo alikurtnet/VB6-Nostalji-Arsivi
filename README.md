@@ -17,7 +17,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 <table bgcolor="#fff3cd">
     <tr>
         <td>
-            ⚠️ <b>ÖNEMLİ:</b> Uygulamalar <b>Visual Basic 6 (VB6)</b> tabanlıdır. Modern sistemlerde stabil çalışma için <b>MSI / Setup</b> paketleri tercih edilmiştir. Kaynak kodlar şeffaflık adına her projenin altında sunulmuştur.
+            ⚠️ <b>ÖNEMLİ:</b> Uygulamalar <b>Visual Basic 6 (VB6)</b> tabanlıdır. Modern sistemlerde stabil çalışma ve ActiveX/DLL kütüphanelerinin otomatik kaydedilmesi için <b>Setup (MSI/EXE)</b> paketleri tercih edilmiştir. Şeffaflık adına kaynak kodlar her projenin altında sunulmuştur.
         </td>
     </tr>
 </table>
@@ -29,20 +29,22 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 
 > **Nostalji Serisi: No 1**
 
-<p>Birim çevrimlerinden mekanik hesaplamalara, denklem çözücülerden sesli geri bildirime kadar geniş yelpazeye sahip profesyonel bir yardımcı araçtır.</p>
+<p>Birim çevrimlerinden mekanik hesaplamalara, denklem çözücülerden sesli geri bildirime kadar geniş yelpazeye sahip profesyonel bir yardımcı araçtır. 2000'li yılların başındaki mühendislik ruhunu modern sistemlere taşır.</p>
 
 <div align="center">
     <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images_calc/4_Calc_Full_Page.gif?raw=true" alt="mS_Calc Önizleme" width="100%">
 </div>
 
 #### ✨ Öne Çıkan Özellikler:
-* **Matematik & Tarih:** 2. derece denklemler, olasılık ve takvim hesapları.
-* **Teknik Araçlar:** Malzeme ağırlık, mekanik dişli ve kesme hızı hesapları.
-* **Entegrasyon:** `sheet-metal-die_calc_1` projesinin temelini oluşturan ilk modülleri içerir.
+* **Mühendislik Modülleri:** Malzeme ağırlık (L, U, T profil), mekanik dişli çark ve kesme hızı hesapları.
+* **Matematik & Tarih:** 2. derece denklemler, olasılık, permütasyon ve gelişmiş takvim analizleri.
+* **Modernizasyon:** Arayüz tamamen **Tahoma** fontu ile yenilenmiş ve yüksek çözünürlük (DPI) desteği eklenmiştir.
+* **Sesli Destek:** Hesaplama sonuçlarını Windows ses motoru üzerinden sesli ifade edebilme.
+* **Entegrasyon:** `sheet-metal-die_calc_1` projesinin temelini oluşturan ilk kalıp modüllerini içerir.
 
-#### 🛠️ İndirme:
-* 💿 **[Hesap Makinesi Calc Setup (MSI)](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/raw/main/01-Eval-Calculator/Hesap_Makinesi_Calc_Setup.msi)** - *Önerilen Kurulum*
-* 📂 **[Kaynak Kodları (.zip)](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/raw/main/01-Eval-Calculator/Eval_calculator_source_code.zip)**
+#### 🛠️ Kurulum ve Kaynak Kod:
+* 💿 **[mS_Calc Güncel Kurulum Paketi](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/raw/main/01-Eval-Calculator/Hesap-Makinesi-Calc.exe)** - *Setup paketini indirir.*
+* 📂 **[Kaynak Kod Arşivi (.zip)](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/raw/main/01-Eval-Calculator/Eval_calculator_source_code.zip)** - *Orijinal VB6 projelerini içerir.*
 </details>
 
 <details>
