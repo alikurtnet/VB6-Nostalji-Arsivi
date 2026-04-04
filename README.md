@@ -79,7 +79,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 </details>
 
 <details>
-<summary><h3>🎮 3. ms_Game - Nostaljik Oyun Arşivi (TIKLA AÇ)</h3></summary>
+<summary><h3>🎮 3. ms_Game - Düşün, Oyna, Öğren: Eğitici Oyunlar (TIKLA AÇ)</h3></summary>
 
 > **Nostalji Serisi: No 3**
 
@@ -103,7 +103,8 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 </div>
 
 #### ✨ Arşivdeki Eğitici Modüller:
-* **Zekâ ve Kelime Dağarcığı:** * **Adam Asmaca:** Türkçe/İngilizce sözlük desteği ve harf seslendirme özelliği.
+* **Zekâ ve Kelime Dağarcığı:**
+    * **Adam Asmaca:** Türkçe/İngilizce sözlük desteği ve harf seslendirme özelliği.
     * **4 Resim 1 Kelime:** Görsel ve kavramsal bağ kurma, dil geliştirme.
     * **Zincirleme Harfler:** Komşu harflerle kelime türetme ve puan katlama (Zekâ & Şans).
 * **Matematik ve Mantık:**
@@ -123,11 +124,16 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 
 </details>
 
-
 <hr>
 
-<h2>📜 Geliştirici Notu</h2>
+<h2>📜 Geliştirici Notu / Developer Notes</h2>
 <p>Bu arşiv, forum kültüründen ve yardımlaşma ruhundan beslenerek bugünlere gelmiştir. Her bir satır kodda bir teknik çözüm arayışı ve mühendislik emeği vardır. Gelecekte bu projelerin modern dillerle (Python/PyQt5) olan dönüşüm yolculuğunu da yine bu profil üzerinden takip edebilirsiniz.</p>
+
+<blockquote>
+  <p><b>Açık Kaynak Katkısı Hakkında:</b> Bu arşivdeki bazı uygulamaların ve oyunların temel iskeleti, internet üzerinde paylaşılan değerli açık kaynak kodlara dayanmaktadır. Söz konusu temeller; tarafımdan geliştirilen ilave kodlar, yeni fonksiyonlar ve özgün görsel arayüzlerle zenginleştirilerek profesyonel bir yapıya kavuşturulmuştur. Bilgi paylaşımına katkıda bulunan tüm küresel geliştiricilere teşekkür ederim.</p>
+  
+  <p><b>Open Source Credits:</b> The core frameworks of some applications and games in this archive are based on valuable open-source code shared globally. These foundations have been enhanced and professionalized through additional coding, new functionalities, and custom visual interfaces developed by me. I would like to express my gratitude to all developers worldwide for their contributions to the knowledge-sharing community.</p>
+</blockquote>
 
 <div align="center">
     <sub>© 2026 alikurtnet (Ali Kurt). Teknik Eğitimci & Yazılım Geliştirici.</sub>
