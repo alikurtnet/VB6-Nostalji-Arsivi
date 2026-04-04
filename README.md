@@ -32,7 +32,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 <p>Birim çevrimlerinden mekanik hesaplamalara, denklem çözücülerden sesli geri bildirime kadar geniş yelpazeye sahip profesyonel bir yardımcı araçtır. Matematiksel ifadeleri eval mantığıyla çözümleyen bu uygulama, mühendislik ruhunu modern sistemlere taşır.</p>
 
 <div align="center">
-    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images_calc/4_Calc_Full_Page.gif?raw=true" alt="mS_Calc Önizleme" width="100%">
+    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/calc/4_Calc_Full_Page.gif?raw=true" alt="mS_Calc Önizleme" width="100%">
 </div>
 
 #### ✨ Öne Çıkan Özellikler:
