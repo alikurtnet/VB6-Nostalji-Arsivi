@@ -24,28 +24,30 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 
 <hr>
 
-<details>
-<summary><h3>🧮 1. ms_Calc - Hesap Makinesi (eval) (TIKLA AÇ)</h3></summary>
+<details open>
+<summary><h3>🧮 1. ms_Calc - Mühendislik ve Matematik Çözümleyici (TIKLA AÇ)</h3></summary>
 
 > **Nostalji Serisi: No 1**
 
-<p>Birim çevrimlerinden mekanik hesaplamalara, denklem çözücülerden sesli geri bildirime kadar geniş yelpazeye sahip profesyonel bir yardımcı araçtır. Matematiksel ifadeleri eval mantığıyla çözümleyen bu uygulama, mühendislik ruhunu modern sistemlere taşır.</p>
+<p>Matematiksel ifadeleri "eval" mantığıyla çözümleyen mS_Calc, birim çevrimlerinden karmaşık mekanik hesaplamalara kadar geniş bir yelpazede hizmet veren profesyonel bir yardımcı araçtır. Mühendislik hesaplamalarını sesli geri bildirimle birleştiren bu modül, teknik dökümantasyon hassasiyetinde sonuçlar üretir.</p>
 
 <div align="center">
     <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/calc/4_Calc_Full_Page.gif?raw=true" alt="mS_Calc Önizleme" width="100%">
 </div>
 
-#### ✨ Öne Çıkan Özellikler:
-* **Mühendislik Modülleri:** Malzeme ağırlık, mekanik dişli çark ve kesme hızı hesapları.
-* **Modernizasyon:** Tahoma fontu ile yenilenmiş arayüz ve yüksek çözünürlük (DPI) desteği.
-* **Sesli Destek:** Hesaplama sonuçlarını Windows ses motoru üzerinden ifade edebilme.
+#### ✨ Kapsamlı Hesaplama Yetenekleri:
+* **Mekanik ve Talaşlı İmalat:** Düz ve Helis dişli çark eleman hesapları, Talaşlı imalatta Kesme Hızı ve İlerleme miktarı analizleri.
+* **Malzeme ve Geometri:** İçi dolu/boş malzemelerin ağırlık hesaplamaları, Koniklik ve Eğim tayini.
+* **İleri Matematik:** Birinci dereceden iki bilinmeyenli ve ikinci dereceden bir bilinmeyenli denklem çözümleri; Permütasyon, Kombinasyon ve Olasılık hesapları.
+* **Birim ve Tarih:** Kapsamlı birim çevrimleri; iki tarih arası fark bulma veya belirtilen tarihe gün ekleme/çıkartma gibi dinamik tarih işlemleri.
+* **Seslendirme Desteği:** Hesaplama sonuçlarını yazı formatından sesli ifadeye dönüştürerek kullanıcıya raporlama özelliği.
+* **Arayüz:** Tahoma fontu ile yenilenmiş, yüksek çözünürlük (DPI) uyumlu modern görünüm.
 
-#### 🛠️ İndirme ve Dökümantasyon:
+#### 🛠️ İndirme ve Kaynak Kod:
 | Dosya / Bilgi | Açıklama | Bağlantı |
 | :--- | :--- | :--- |
 | 💿 **Kurulum (EXE)** | Taşınabilir Çalıştırılabilir Dosya | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-msCalc/Hesap-Makinesi-Calc.exe) |
 | 📂 **Kaynak Kod** | VB6 Proje Dosyaları (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-msCalc/Eval-Calculator-Full_Workspace_v1.0.zip) |
-| 📖 **Detaylı İnceleme** | İşlevler ve Kullanım Kılavuzu | *[Teknik Dökümantasyon (Yakında)]* |
 
 </details>
 
@@ -61,12 +63,11 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 * **Güvenli Kurulum:** ActiveX bileşenlerinin hatasız kaydı için MSI formatında sunulmuştur.
 * **Sistem Araçları:** Kayıt defteri düzenleyici ve sistem kilitlerini açma yardımcıları.
 
-#### 🛠️ İndirme ve Dökümantasyon:
+#### 🛠️ İndirme ve Kaynak Kod:
 | Dosya / Bilgi | Açıklama | Bağlantı |
 | :--- | :--- | :--- |
 | 📦 **Kurulum (MSI)** | Windows Installer Paketi | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS_Explorer_Kur.msi) |
 | 📂 **Kaynak Kod** | Tam Çalışma Ortamı (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS_Explorer_Full_Workspace_v1.0.zip) |
-| 📖 **Detaylı İnceleme** | Modüller ve Kod Yapısı Analizi | *[Teknik Dökümantasyon (Yakında)]* |
 
 </details>
 
@@ -81,12 +82,11 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 * **Zeka Oyunları:** Strateji ve mantık odaklı klasik VB6 oyunları.
 * **Modüler Yapı:** Bağımsız araçlarla (Örn: RoboCopy) entegre çalışabilme yeteneği.
 
-#### 🛠️ İndirme ve Dökümantasyon:
+#### 🛠️ İndirme ve Kaynak Kod:
 | Dosya / Bilgi | Açıklama | Bağlantı |
 | :--- | :--- | :--- |
 | 💿 **Kurulum (EXE)** | Oyun Kurulum Paketi | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Game/Game-SetUp.exe) |
 | 📂 **Kaynak Kod** | Tüm Oyun Kaynakları (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/archive/refs/tags/v1.0.0-Game.zip) |
-| 📖 **Detaylı İnceleme** | Oyun Algoritmaları ve Geliştirme Notları | *[Teknik Dökümantasyon (Yakında)]* |
 
 </details>
 
