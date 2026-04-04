@@ -83,11 +83,37 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 
 > **Nostalji Serisi: No 3**
 
-<p>VB6 ile geliştirilmiş, mantık yürütme ve zeka oyunlarını içeren modüler bir koleksiyon. Algoritma mantığını nostaljik bir arayüzle sunar.</p>
+<p>VB6 ile geliştirilmiş bu koleksiyon; zekâ, hafıza ve hızlı düşünme yetisini geliştirmeye odaklanan modüler bir oyun arşividir. Algoritma mantığını nostaljik bir arayüzle sunan bu paket, hem eğlendirir hem de eğitir.</p>
 
-#### ✨ Öne Çıkan Özellikler:
-* **Zeka Oyunları:** Strateji ve mantık odaklı klasik VB6 oyunları.
-* **Modüler Yapı:** Bağımsız araçlarla (Örn: RoboCopy) entegre çalışabilme yeteneği.
+#### 📸 Oyun Arayüzleri
+<div align="center">
+    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/game/00_Game.png?raw=true" width="24%">
+    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/game/01_Tahmin.png?raw=true" width="24%">
+    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/game/02_Bil.png?raw=true" width="24%">
+    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/game/03_AdamAsmaca.png?raw=true" width="24%">
+    <br><br>
+    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/game/04_Puzzle.png?raw=true" width="24%">
+    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/game/05_Tenis.png?raw=true" width="24%">
+    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/game/06_Zingir.png?raw=true" width="24%">
+    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/game/07_Math.png?raw=true" width="24%">
+    <br><br>
+    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/game/08_UcTas.png?raw=true" width="24%">
+    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/game/09_Hafiza.png?raw=true" width="24%">
+    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/game/10_ResimKelime.png?raw=true" width="24%">
+</div>
+
+#### ✨ Arşivdeki Eğitici Modüller:
+* **Zekâ ve Kelime Dağarcığı:** * **Adam Asmaca:** Türkçe/İngilizce sözlük desteği ve harf seslendirme özelliği.
+    * **4 Resim 1 Kelime:** Görsel ve kavramsal bağ kurma, dil geliştirme.
+    * **Zincirleme Harfler:** Komşu harflerle kelime türetme ve puan katlama (Zekâ & Şans).
+* **Matematik ve Mantık:**
+    * **Hızlı Matematik:** Zamanla yarışarak doğru kavrama ve işlem yetisi kazanma.
+    * **Sudoku & Puzzle:** Klasik mantık yürütme ve dikkat geliştirme bulmacaları.
+    * **Tuttuğum Sayıyı Bil:** Bilgi, hafıza ve stratejik tahmin yürütme.
+* **Hız ve Nostalji:**
+    * **Rally & mini Ralliciler:** Hızlı refleks yönetimi.
+    * **Tenis:** Görsel efektlerle desteklenmiş klasik arcade deneyimi.
+    * **Üçtaş:** Strateji odaklı geleneksel zekâ oyunu.
 
 #### 🛠️ İndirme ve Kaynak Kod:
 | Dosya / Bilgi | Açıklama | Bağlantı |
@@ -96,6 +122,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 | 📂 **Kaynak Kod** | Tüm Oyun Kaynakları (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/archive/refs/tags/v1.0.0-Game.zip) |
 
 </details>
+
 
 <hr>
 
