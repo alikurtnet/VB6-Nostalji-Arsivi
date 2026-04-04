@@ -24,8 +24,8 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 
 <hr>
 
-<details>
-<summary><h3>🧮 1. ms_Calc - Mühendislik ve Matematik Çözümleyici (TIKLA AÇ)</h3></summary>
+<details open>
+<summary><h3>🧮 1. ms_Calc - Mühendislik ve Matematik Çözümleyici (AÇ-KAPA)</h3></summary>
 
 > **Nostalji Serisi: No 1**
 
@@ -52,7 +52,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 </details>
 
 <details open>
-<summary><h3>📂 2. mS_Explorer - Dosya Yönetim ve Sistem Merkezi (TIKLA AÇ)</h3></summary>
+<summary><h3>📂 2. mS_Explorer - Dosya Yönetim ve Sistem Merkezi (AÇ-KAPA)</h3></summary>
 
 > **Nostalji Serisi: No 2**
 
@@ -78,8 +78,8 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 
 </details>
 
-<details>
-<summary><h3>🎮 3. ms_Game - Düşün, Oyna, Öğren: Eğitici Oyunlar (TIKLA AÇ)</h3></summary>
+<details open>
+<summary><h3>🎮 3. ms_Game - Düşün, Oyna, Öğren: Eğitici Oyunlar (AÇ-KAPA)</h3></summary>
 
 > **Nostalji Serisi: No 3**
 
