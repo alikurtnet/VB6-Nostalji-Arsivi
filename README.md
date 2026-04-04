@@ -24,7 +24,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 
 <hr>
 
-<details open>
+<details>
 <summary><h3>🧮 1. ms_Calc - Mühendislik ve Matematik Çözümleyici (TIKLA AÇ)</h3></summary>
 
 > **Nostalji Serisi: No 1**
@@ -51,17 +51,24 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 
 </details>
 
-<details>
-<summary><h3>📂 2. mS_Explorer - Dosya Yönetim Sistemi (TIKLA AÇ)</h3></summary>
+<details open>
+<summary><h3>📂 2. mS_Explorer - Dosya Yönetim ve Sistem Merkezi (TIKLA AÇ)</h3></summary>
 
 > **Nostalji Serisi: No 2**
 
-<p>Windows Explorer mantığıyla çalışan, gelişmiş dosya indeksleme, yedekleme ve sistem yönetimi araçlarını içeren kapsamlı bir Windows alternatifidir. 58 alt klasör ve 1100+ dosyadan oluşan devasa bir çalışma alanı içerir.</p>
+<p>Windows Explorer'a güçlü bir alternatif olarak geliştirilen mS_Explorer; dosya indeksleme, gelişmiş arama ve profesyonel yedekleme araçlarını tek bir merkezde toplar. 58 alt klasör ve 1100'den fazla dosyadan oluşan bu devasa çalışma alanı, sadece bir dosya yöneticisi değil, aynı zamanda kapsamlı bir sistem bakım kitidir.</p>
+
+<div align="center">
+    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/explorer/1_mS_Explorer.png?raw=true" alt="mS_Explorer Arayüz" width="49%">
+    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/explorer/2_RoboCopy.png?raw=true" alt="mS_RoboCopy Modülü" width="49%">
+</div>
 
 #### ✨ Öne Çıkan Özellikler:
-* **Gelişmiş İndeksleme:** Hızlı dosya arama, kategorizasyon ve yedekleme modülleri.
-* **Güvenli Kurulum:** ActiveX bileşenlerinin hatasız kaydı için MSI formatında sunulmuştur.
-* **Sistem Araçları:** Kayıt defteri düzenleyici ve sistem kilitlerini açma yardımcıları.
+* **Akıllı Dosya Yönetimi:** Windows Gezgini mantığında hızlı erişim, kategorize edilmiş dosya indeksleme ve gelişmiş arama motoru.
+* **mS_RoboCopy Arayüzü:** Karmaşık RoboCopy komutlarını görselleştiren, güvenli ve hızlı veri yedekleme modülü.
+* **Sistem Bakım Araçları:** Kayıt Defteri (Registry) düzenleyici, sistem kilitlerini açma ve ActiveX/DLL kütüphane yönetim yardımcıları.
+* **Kapsamlı Altyapı:** Onlarca modül ve yüzlerce formdan oluşan, VB6'nın sınırlarını zorlayan modüler mimari.
+* **Güvenli Dağıtım:** Gerekli tüm sistem bileşenlerinin hatasız kaydedilmesi için profesyonel MSI yükleme paketi.
 
 #### 🛠️ İndirme ve Kaynak Kod:
 | Dosya / Bilgi | Açıklama | Bağlantı |
