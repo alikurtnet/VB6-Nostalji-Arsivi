@@ -32,7 +32,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 <p>Matematiksel ifadeleri "eval" mantığıyla çözümleyen mS_Calc, birim çevrimlerinden karmaşık mekanik hesaplamalara kadar geniş bir yelpazede hizmet veren profesyonel bir yardımcı araçtır. Mühendislik hesaplamalarını sesli geri bildirimle birleştiren bu modül, teknik dökümantasyon hassasiyetinde sonuçlar üretir.</p>
 
 <div align="center">
-    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/calc/4_Calc_Full_Page.gif?raw=true" alt="mS_Calc Önizleme" width="100%">
+    <img src="https://raw.githubusercontent.com/alikurtnet/VB6-Nostalji-Arsivi/main/images/calc/4_Calc_Full_Page.gif" alt="mS_Calc Önizleme" width="100%">
 </div>
 
 #### ✨ Kapsamlı Hesaplama Yetenekleri:
@@ -59,8 +59,8 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 <p>Windows Explorer'a güçlü bir alternatif olarak geliştirilen mS_Explorer; dosya indeksleme, gelişmiş arama ve profesyonel yedekleme araçlarını tek bir merkezde toplar. 58 alt klasör ve 1100'den fazla dosyadan oluşan bu devasa çalışma alanı, sadece bir dosya yöneticisi değil, aynı zamanda kapsamlı bir sistem bakım kitidir.</p>
 
 <div align="center">
-    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/explorer/1_mS_Explorer.png?raw=true" alt="mS_Explorer Arayüz" width="49%">
-    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/explorer/2_RoboCopy.png?raw=true" alt="mS_RoboCopy Modülü" width="49%">
+    <img src="https://raw.githubusercontent.com/alikurtnet/VB6-Nostalji-Arsivi/main/images/explorer/1_mS_Explorer.png" alt="mS_Explorer Arayüz" width="49%">
+    <img src="https://raw.githubusercontent.com/alikurtnet/VB6-Nostalji-Arsivi/main/images/explorer/2_RoboCopy.png" alt="mS_RoboCopy Modülü" width="49%">
 </div>
 
 #### ✨ Öne Çıkan Özellikler:
@@ -87,19 +87,19 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 
 #### 📸 Oyun Arayüzleri
 <div align="center">
-    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/game/00_Game.png?raw=true" width="24%">
-    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/game/01_Tahmin.png?raw=true" width="24%">
-    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/game/02_Bil.png?raw=true" width="24%">
-    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/game/03_AdamAsmaca.png?raw=true" width="24%">
+    <img src="https://raw.githubusercontent.com/alikurtnet/VB6-Nostalji-Arsivi/main/images/game/00_Game.png" width="24%">
+    <img src="https://raw.githubusercontent.com/alikurtnet/VB6-Nostalji-Arsivi/main/images/game/01_Tahmin.png" width="24%">
+    <img src="https://raw.githubusercontent.com/alikurtnet/VB6-Nostalji-Arsivi/main/images/game/02_Bil.png" width="24%">
+    <img src="https://raw.githubusercontent.com/alikurtnet/VB6-Nostalji-Arsivi/main/images/game/03_AdamAsmaca.png" width="24%">
     <br><br>
-    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/game/04_Puzzle.png?raw=true" width="24%">
-    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/game/05_Tenis.png?raw=true" width="24%">
-    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/game/06_Zingir.png?raw=true" width="24%">
-    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/game/07_Math.png?raw=true" width="24%">
+    <img src="https://raw.githubusercontent.com/alikurtnet/VB6-Nostalji-Arsivi/main/images/game/04_Puzzle.png" width="24%">
+    <img src="https://raw.githubusercontent.com/alikurtnet/VB6-Nostalji-Arsivi/main/images/game/05_Tenis.png" width="24%">
+    <img src="https://raw.githubusercontent.com/alikurtnet/VB6-Nostalji-Arsivi/main/images/game/06_Zingir.png" width="24%">
+    <img src="https://raw.githubusercontent.com/alikurtnet/VB6-Nostalji-Arsivi/main/images/game/07_Math.png" width="24%">
     <br><br>
-    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/game/08_UcTas.png?raw=true" width="24%">
-    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/game/09_Hafiza.png?raw=true" width="24%">
-    <img src="https://github.com/alikurtnet/VB6-Nostalji-Arsivi/blob/main/images/game/10_ResimKelime.png?raw=true" width="24%">
+    <img src="https://raw.githubusercontent.com/alikurtnet/VB6-Nostalji-Arsivi/main/images/game/08_UcTas.png" width="24%">
+    <img src="https://raw.githubusercontent.com/alikurtnet/VB6-Nostalji-Arsivi/main/images/game/09_Hafiza.png" width="24%">
+    <img src="https://raw.githubusercontent.com/alikurtnet/VB6-Nostalji-Arsivi/main/images/game/10_ResimKelime.png" width="24%">
 </div>
 
 #### ✨ Arşivdeki Eğitici Modüller:
