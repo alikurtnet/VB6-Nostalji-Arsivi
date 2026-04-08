@@ -13,17 +13,35 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 
 <hr>
 
-<h2>🛡️ Güvenlik ve Kurulum Standartları</h2>
+<h2>🛡️ Güvenlik ve Kurulum Standartları / Security & Installation Standards</h2>
+
 <table bgcolor="#fff3cd">
     <tr>
         <td>
-            ⚠️ <b>ÖNEMLİ:</b> Uygulamalar <b>Visual Basic 6 (VB6)</b> tabanlıdır. Modern sistemlerde stabil çalışma ve ActiveX/DLL kütüphanelerinin otomatik kaydedilmesi için <b>Setup (MSI/EXE)</b> paketleri tercih edilmiştir. Şeffaflık adına her yayının altında tam kaynak kodları (Source Code) sunulmuştur.
+            ⚠️ <b>ÖNEMLİ (Teknoloji ve Güvenlik Notu):</b> 
+            <br><br>
+            <b>[TR]</b> Bu arşivdeki uygulamalar <b>Visual Basic 6 (VB6)</b> tabanlıdır. Günümüz modern antivirüs motorları, VB6'nın kullandığı ActiveX/DLL kütüphane yapılarını "eski teknoloji" kategorisinde değerlendirmekte ve bazen bu dosyalara (False Positive) hatalı bir ön kabulle şüpheli etiketi yapıştırabilmektedir. Bu durum, tamamen yazılımın yaşı ve kütüphane kayıt yöntemleriyle (Self-Registration) ilgilidir.
+            <br><br>
+            Şeffaflık ve güven için:
+            <ul>
+                <li>Modern sistemlerde stabil çalışma ve DLL çakışmalarını önlemek için <b>Setup (MSI/EXE)</b> paketleri tercih edilmiştir.</li>
+                <li>Her yayının altında tam <b>Kaynak Kodları (Source Code)</b> açıkça sunulmuştur.</li>
+                <li>Uygulamaları <b>Yönetici Olarak</b> çalıştırmanız, eski kütüphanelerin Windows çekirdeğine güvenli bir şekilde tanıtılması için önerilir.</li>
+            </ul>
+            <hr>
+            <b>[EN]</b> The applications in this archive are <b>Visual Basic 6 (VB6)</b> based. Modern antivirus engines often flag VB6-specific ActiveX/DLL structures as suspicious (False Positive) due to the legacy nature of the technology and its self-registration methods.
+            <br><br>
+            For transparency and security:
+            <ul>
+                <li><b>Setup (MSI/EXE)</b> packages are provided to ensure library registration and system stability.</li>
+                <li>Full <b>Source Code</b> is included with every release.</li>
+                <li>Running the apps as <b>Administrator</b> is recommended for proper registration of legacy components.</li>
+            </ul>
         </td>
     </tr>
 </table>
 
 <hr>
-
 <details open>
 <summary><h3>🧮 1. ms_Calc - Mühendislik ve Matematik Çözümleyici (AÇ-KAPA)</h3></summary>
 
