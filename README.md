@@ -145,7 +145,12 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 <hr>
 
 <h2>📜 Geliştirici Notu / Developer Notes</h2>
-<p>Bu arşiv, forum kültüründen ve yardımlaşma ruhundan beslenerek bugünlere gelmiştir. Her bir satır kodda bir teknik çözüm arayışı ve mühendislik emeği vardır. Gelecekte bu projelerin modern dillerle (Python/PyQt5) olan dönüşüm yolculuğunu da yine bu profil üzerinden takip edebilirsiniz.</p>
+
+<p>
+<b>[TR]</b> Bu arşiv, forum kültüründen ve yardımlaşma ruhundan beslenerek bugünlere gelmiştir. Her bir satır kodda bir teknik çözüm arayışı ve mühendislik emeği vardır. Bu kaynak kodlar; güncel teknolojilerle uygulama geliştirmek isteyenler için bir ufuk açıcı ve teknik bir <b>mehaz (referans)</b> olması düşüncesiyle paylaşılmıştır.
+<br><br>
+<b>[EN]</b> This archive has evolved through the spirit of collaboration and forum culture. Every line of code represents an engineering effort and a search for technical solutions. These source codes are shared with the intent of serving as an <b>inspiring reference (resource)</b> for those aiming to develop applications with modern technologies.
+</p>
 
 <blockquote>
   <p><b>Açık Kaynak Katkısı Hakkında:</b> Bu arşivdeki bazı uygulamaların ve oyunların temel iskeleti, internet üzerinde paylaşılan değerli açık kaynak kodlara dayanmaktadır. Söz konusu temeller; tarafımdan geliştirilen ilave kodlar, yeni fonksiyonlar ve özgün görsel arayüzlerle zenginleştirilerek profesyonel bir yapıya kavuşturulmuştur. Bilgi paylaşımına katkıda bulunan tüm küresel geliştiricilere teşekkür ederim.</p>
