@@ -91,7 +91,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 #### 🛠️ İndirme ve Kaynak Kod:
 | Dosya / Bilgi | Açıklama | Bağlantı |
 | :--- | :--- | :--- |
-| 📦 **Kurulum (MSI)** | Windows Installer Paketi | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS_Explorer_Kur.msi) |
+| 📦 **Kurulum (MSI)** | Windows Installer Paketi | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS-Explorer-Kur.exe) |
 | 📂 **Kaynak Kod** | Tam Çalışma Ortamı (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS_Explorer_Full_Workspace_v1.0.zip) |
 
 </details>
