@@ -24,7 +24,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
             <br><br>
             Şeffaflık ve güven için:
             <ul>
-                <li>Modern sistemlerde stabil çalışma ve DLL çakışmalarını önlemek için <b>Setup (MSI/EXE)</b> paketleri tercih edilmiştir.</li>
+                <li>Modern sistemlerde stabil çalışma ve DLL çakışmalarını önlemek için <b>Setup (EXE)</b> paketleri tercih edilmiştir.</li>
                 <li>Her yayının altında tam <b>Kaynak Kodları (Source Code)</b> açıkça sunulmuştur.</li>
                 <li>Uygulamaları <b>Yönetici Olarak</b> çalıştırmanız, eski kütüphanelerin Windows çekirdeğine güvenli bir şekilde tanıtılması için önerilir.</li>
             </ul>
