@@ -75,7 +75,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 
 > **Nostalji Serisi: No 2**
 
-<p>Windows Explorer'a güçlü bir alternatif olarak geliştirilen mS_Explorer; dosya indeksleme, gelişmiş arama ve profesyonel yedekleme araçlarını tek bir merkezde toplar. 58 alt klasör ve 1100'den fazla dosyadan oluşan bu devasa çalışma alanı, sadece bir dosya yöneticisi değil, aynı zamanda kapsamlı bir sistem bakım kitidir.</p>
+<p>Windows Explorer'a güçlü bir alternatif olarak geliştirilen mS_Explorer; dosya indeksleme, gelişmiş arama og profesyonel yedekleme araçlarını tek bir merkezde toplar. 58 alt klasör ve 1100'den fazla dosyadan oluşan bu devasa çalışma alanı, sadece bir dosya yöneticisi değil, aynı zamanda kapsamlı bir sistem bakım kitidir.</p>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/alikurtnet/VB6-Nostalji-Arsivi/main/images/explorer/1_mS_Explorer.png" alt="mS_Explorer Arayüz" width="49%">
@@ -142,6 +142,32 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 | 💿 **Game-Game (EXE)** | Oyun Kurulum Paketi | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Game/Game-SetUp.exe) |
 | 🛡️ **Güvenlik** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/eeb244cfb5577889fefa29302186c089bf195b481ed758716892f29b7abb9c44/detection) |
 | 📂 **Kaynak Kod** | Tüm Oyun Kaynakları (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/archive/refs/tags/v1.0.0-Game.zip) |
+
+</details>
+
+<details open>
+<summary><h3>🚀 4. mS_RoboCopy - Gelişmiş Veri Yedekleme ve Senkronizasyon Arayüzü (AÇ-KAPA)</h3></summary>
+
+> **Nostalji Serisi: No 4**
+
+<p>Windows'un güçlü komut satırı aracı RoboCopy'yi tamamen görselleştiren, sade ve kararlı bir sistem yardımcı aracıdır. Karmaşık parametreleri tek bir tıklamaya indirgeyen bu modül, sistem yöneticileri, teknik eğiticiler ve verilerini gamsızca yedeklemek isteyenler için tasarlanmıştır.</p>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/alikurtnet/VB6-Nostalji-Arsivi/main/images/RoboCopy/mS_RoboCopy.png" alt="mS_RoboCopy Bağımsız Arayüz" width="60%">
+</div>
+
+#### ✨ Öne Çıkan Özellikler:
+* **Hızlı Görev Yönetimi:** Kaynak ve hedef klasör tanımlamalarını hafızada tutarak tek tuşla senkronizasyon sağlama.
+* **Antivirüs Dostu Çekirdek:** Windows'un alt kabuk ve kayıt mekanizmalarıyla tam uyumlu çalışan, tarama filtrelerine takılmayan şeffaf altyapı.
+* **Yalın Tasarım:** Gereksiz hiçbir görsel yük barındırmayan, doğrudan performansa ve amaca odaklı VB6 arabirimi.
+* **Eğitim Odaklı Açık Kaynak:** Kodların sadeleştirilmiş ve budanmış mimarisi sayesinde, kütüphane yönetimini anlamak isteyen öğrenciler için kusursuz bir mehaz (referans).
+
+#### 🛠️ İndirme ve Kaynak Kod:
+| Dosya / Bilgi | Açıklama | Bağlantı |
+| :--- | :--- | :--- |
+| 💿 **mS-RoboCopy-SetUp (EXE)** | Kurulum ve Entegrasyon Paketi | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0/mS-RoboCopy-SetUp.exe) |
+| 🛡️ **Güvenlik** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/f39d9dc9baeb5a7ed6fbfd62cdca90ebb88ca8cbebae006f1959acdfd319434b/detection) |
+| 📂 **Kaynak Kod** | Açık Kaynak Kod Dünyası (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0/RoboCopy-OpenSource-v1.0.0.zip) |
 
 </details>
 
