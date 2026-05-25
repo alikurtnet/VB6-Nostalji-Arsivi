@@ -43,7 +43,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 
 <hr>
 <details open>
-<summary><h3>🧮 1. ms_Calc - Mühendislik ve Matematik Çözümleyici (↕)</h3></summary>
+<summary><h3>🧮 1. ms_Calc - Mühendislik ve Matematik Çözümleyici ↕️ </h3></summary>
 
 > **Nostalji Serisi: No 1**
 
@@ -71,7 +71,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 </details>
 
 <details open>
-<summary><h3>📂 2. mS_Explorer - Dosya Yönetim ve Sistem Merkezi (↕)</h3></summary>
+<summary><h3>📂 2. mS_Explorer - Dosya Yönetim ve Sistem Merkezi ↕️ </h3></summary>
 
 > **Nostalji Serisi: No 2**
 
@@ -83,7 +83,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 </div>
 
 #### ✨ Öne Çıkan Özellikler:
-* **Akıllı Dosya Yönetimi:** Windows Gezgini mantığında hızlı erişim, kategorize edilmiş dosya indeksleme ve gelişmiş arama motoru.
+* **Akıllı Dosya Yönetimi:** Windows Gezgini mantığında hızlı erişim, kategorize edilmiş dosya indeksleme og gelişmiş arama motoru.
 * **mS_RoboCopy Arayüzü:** Karmaşık RoboCopy komutlarını görselleştiren, güvenli ve hızlı veri yedekleme modülü.
 * **Sistem Bakım Araçları:** Kayıt Defteri (Registry) düzenleyici, sistem kilitlerini açma ve ActiveX/DLL kütüphane yönetim yardımcıları.
 * **Kapsamlı Altyapı:** Onlarca modül ve yüzlerce formdan oluşan, VB6'nın sınırlarını zorlayan modüler mimari.
@@ -99,7 +99,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 </details>
 
 <details open>
-<summary><h3>🎮 3. ms_Game - Düşün, Oyna, Öğren: Eğitici Oyunlar (↕)</h3></summary>
+<summary><h3>🎮 3. ms_Game - Düşün, Oyna, Öğren: Eğitici Oyunlar ↕️ </h3></summary>
 
 > **Nostalji Serisi: No 3**
 
@@ -126,7 +126,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 * **Zekâ ve Kelime Dağarcığı:**
     * **Adam Asmaca:** Türkçe/İngilizce sözlük desteği ve harf seslendirme özelliği.
     * **4 Resim 1 Kelime:** Görsel ve kavramsal bağ kurma, dil geliştirme.
-    * **Zincirleme Harfler:** Komşu harflerle kelime türetme ve puan katlama (Zekâ & Şans).
+    * **Zincirleme Harfler:** Komşu harflerle kelime türetme and puan katlama (Zekâ & Şans).
 * **Matematik ve Mantık:**
     * **Hızlı Matematik:** Zamanla yarışarak doğru kavrama ve işlem yetisi kazanma.
     * **Sudoku & Puzzle:** Klasik mantık yürütme ve dikkat geliştirme bulmacaları.
@@ -146,7 +146,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 </details>
 
 <details open>
-<summary><h3>🚀 4. mS_RoboCopy - Gelişmiş Veri Yedekleme ve Senkronizasyon Arayüzü (↕)</h3></summary>
+<summary><h3>🚀 4. mS_RoboCopy - Gelişmiş Veri Yedekleme ve Senkronizasyon Arayüzü ↕️ </h3></summary>
 
 > **Nostalji Serisi: No 4**
 
