@@ -140,7 +140,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 | Dosya / Bilgi | Açıklama | Bağlantı |
 | :--- | :--- | :--- |
 | 💿 **Game-Game (EXE)** | Oyun Kurulum Paketi | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Game/Game-SetUp.exe) |
-| 🛡️ **Güvenlik** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/3f0fdc4ad888a8ae1ec0f8d5f5b3ad14fc65954ec9bc59583203e950cd4cb166/detection) |
+| 🛡️ **Güvenlik** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/0c7bd86bc58ec685163a8606c6d32f69898d9afaa2962e6f69c5efaa1fb32d3f/detection) |
 | 📂 **Kaynak Kod** | Tüm Oyun Kaynakları (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Game/mS-Game-Full_Workspace_v1.0.zip) |
 
 </details>
