@@ -43,7 +43,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 
 <hr>
 <details open>
-<summary><h3>🧮 1. ms_Calc - Mühendislik ve Matematik Çözümleyici ↕️ </h3></summary>
+<summary><h3 id="calc">🧮 1. ms_Calc - Mühendislik ve Matematik Çözümleyici ↕️ </h3></summary>
 
 > **Nostalji Serisi: No 1**
 
@@ -71,7 +71,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 </details>
 
 <details open>
-<summary><h3>📂 2. mS_Explorer - Dosya Yönetim ve Sistem Merkezi ↕️ </h3></summary>
+<summary><h3 id="explorer">📂 2. mS_Explorer - Dosya Yönetim ve Sistem Merkezi ↕️ </h3></summary>
 
 > **Nostalji Serisi: No 2**
 
@@ -99,7 +99,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 </details>
 
 <details open>
-<summary><h3>🎮 3. ms_Game - Düşün, Oyna, Öğren: Eğitici Oyunlar ↕️ </h3></summary>
+<summary><h3 id="game">🎮 3. ms_Game - Düşün, Oyna, Öğren: Eğitici Oyunlar ↕️ </h3></summary>
 
 > **Nostalji Serisi: No 3**
 
@@ -146,7 +146,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 </details>
 
 <details open>
-<summary><h3>🚀 4. mS_RoboCopy - Gelişmiş Veri Yedekleme ve Senkronizasyon Arayüzü ↕️ </h3></summary>
+<summary><h3 id="robocopy">🚀 4. mS_RoboCopy - Gelişmiş Veri Yedekleme ve Senkronizasyon Arayüzü ↕️ </h3></summary>
 
 > **Nostalji Serisi: No 4**
 
@@ -157,7 +157,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 </div>
 
 #### ✨ Öne Çıkan Özellikler:
-* **Hızlı Görev Yönetimi:** Kaynak ve hedef klasör tanımlamalarını hafızada tutarak tek tuşla senkronizasyon sağlama.
+* **Hızlı Görev Yönetimi:** Kaynak ve hedon klasör tanımlamalarını hafızada tutarak tek tuşla senkronizasyon sağlama.
 * **Antivirüs Dostu Çekirdek:** Windows'un alt kabuk ve kayıt mekanizmalarıyla tam uyumlu çalışan, tarama filtrelerine takılmayan şeffaf altyapı.
 * **Yalın Tasarım:** Gereksiz hiçbir görsel yük barındırmayan, doğrudan performansa ve amaca odaklı VB6 arabirimi.
 * **Eğitim Odaklı Açık Kaynak:** Kodların sadeleştirilmiş ve budanmış mimarisi sayesinde, kütüphane yönetimini anlamak isteyen öğrenciler için kusursuz bir mehaz (referans).
