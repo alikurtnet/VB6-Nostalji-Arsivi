@@ -166,7 +166,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 | Dosya / Bilgi | Açıklama | Bağlantı |
 | :--- | :--- | :--- |
 | 💿 **mS-RoboCopy-SetUp (EXE)** | Kurulum ve Entegrasyon Paketi | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0/mS-RoboCopy-SetUp.exe) 
-| 🛡️ **Güvenlik** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/1be24e318cdd5e18b91eb34805779f4dfaeabe74ebc6907da504233077f8dc99/detection) |
+| 🛡️ **Güvenlik** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/93938307eaa09fdf77bcadfd23fecb4fa455c1a3b6917e61085b55243302c5f2/detection) |
 | 📂 **Kaynak Kod** | Açık Kaynak Kod Dünyası (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0/RoboCopy-OpenSource-v1.0.0.zip) |
 
 </details>
