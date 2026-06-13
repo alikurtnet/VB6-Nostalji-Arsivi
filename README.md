@@ -75,7 +75,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 
 > **Nostalji Serisi: No 2**
 
-<p>Windows Explorer'a güçlü bir alternatif olarak geliştirilen mS_Explorer; dosya indeksleme, gelişmiş arama og profesyonel yedekleme araçlarını tek bir merkezde toplar. 58 alt klasör ve 1100'den fazla dosyadan oluşan bu devasa çalışma alanı, sadece bir dosya yöneticisi değil, aynı zamanda kapsamlı bir sistem bakım kitidir.</p>
+<p>Windows Explorer'a güçlü bir alternatif olarak geliştirilen mS_Explorer; dosya indeksleme, gelişmiş arama ve profesyonel yedekleme araçlarını tek bir merkezde toplar. 58 alt klasör ve 1100'den fazla dosyadan oluşan bu devasa çalışma alanı, sadece bir dosya yöneticisi değil, aynı zamanda kapsamlı bir sistem bakım kitidir.</p>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/alikurtnet/VB6-Nostalji-Arsivi/main/images/explorer/1_mS_Explorer.png" alt="mS_Explorer Arayüz" width="49%">
@@ -83,18 +83,27 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 </div>
 
 #### ✨ Öne Çıkan Özellikler:
-* **Akıllı Dosya Yönetimi:** Windows Gezgini mantığında hızlı erişim, kategorize edilmiş dosya indeksleme og gelişmiş arama motoru.
+* **Akıllı Dosya Yönetimi:** Windows Gezgini mantığında hızlı erişim, kategorize edilmiş dosya indeksleme ve gelişmiş arama motoru.
 * **mS_RoboCopy Arayüzü:** Karmaşık RoboCopy komutlarını görselleştiren, güvenli ve hızlı veri yedekleme modülü.
 * **Sistem Bakım Araçları:** Kayıt Defteri (Registry) düzenleyici, sistem kilitlerini açma ve ActiveX/DLL kütüphane yönetim yardımcıları.
 * **Kapsamlı Altyapı:** Onlarca modül ve yüzlerce formdan oluşan, VB6'nın sınırlarını zorlayan modüler mimari.
 * **Güvenli Dağıtım:** Gerekli tüm sistem bileşenlerinin hatasız kaydedilmesi için profesyonel kurulum paketi.
 
+#### 🚀 mS_Explorer v2a (Öncü / Gelişmiş Sürüm) Yenilikleri:
+* **Özel Filtreleme Sistemi:** İçerik listeleme bölümüne, verilere çok daha hızlı ulaşmanızı sağlayacak **Özel ComboBox filtreleme özelliği** eklendi.
+* **Gelişmiş Dosya Doğrulama:** Toplu entegrasyon ve veri bütünlüğü takipleri için **Toplu SHA (Hash) Tarama modülü** sisteme dahil edildi.
+* **Görsel İyileştirmeler:** Uygulama içi ikon setleri optimize edilerek modern ve daha net bir arayüz görünümü sağlandı.
+* *Not: Bu öncü sürüm, itibar (reputation) süreci tamamlandıktan sonra ilerleyen aylarda doğrudan ana mS_Explorer.exe dosyasının yerini alacaktır.*
+
 #### 🛠️ İndirme ve Kaynak Kod:
 | Dosya / Bilgi | Açıklama | Bağlantı |
 | :--- | :--- | :--- |
-| 📦 **ms-Explorer-Kur (EXE)** | Windows Kurulum Paketi | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS-Explorer-Kur.exe) |
-| 🛡️ **Güvenlik** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/22477bb52a0594af4da6445e7d8b8d60e9b296a82f34e572d14c34d9fa20d67a/detection) |
+| 📦 **mS-Explorer-Kur (EXE)** | **[Kararlı Sürüm]** Orijinal Windows Kurulum Paketi | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS-Explorer-Kur.exe) |
+| 🛡️ **Güvenlik (v1.0.0)** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/22477bb52a0594af4da6445e7d8b8d60e9b296a82f34e572d14c34d9fa20d67a/detection) |
+| 🚀 **mS_Explorer_v2a (EXE)** | **[Öncü Sürüm]** En yeni özellikleri içeren test derlemesi *(AV İtibar Analizindedir)* | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS_Explorer_v2a.exe) |
 | 📂 **Kaynak Kod** | Tam Çalışma Ortamı (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS_Explorer_Full_Workspace_v1.0.zip) |
+
+> 💡 **v2a Güvenlik Notu:** Bu yeni derleme, antivirüs motorlarının bulut/itibar (cloud reputation) davranışlarını gözlemlemek amacıyla TotalVirus gibi platformlara hemen yansıtılmamıştır. Geçmiş kararlı sürümlerimizin güvenilirliği ve AV devlerinin (Microsoft Defender vb.) onayları ışığında dosyamız tamamen güvenlidir. İlk etapta (yeni derleme olmasından ötürü) en fazla 1-2 yerel AV motorunun hatalı (False-Positive) uyarı verebileceği öngörülmektedir, bu durum tamamen geçicidir.
 
 </details>
 
