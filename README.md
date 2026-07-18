@@ -65,7 +65,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 | Dosya / Bilgi | Açıklama | Bağlantı |
 | :--- | :--- | :--- |
 | 💿 **Hesap-Makinesi-Calc (EXE)** | Windows Installer Paketi | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-msCalc/Hesap-Makinesi-Calc.exe) |
-| 🛡️ **Güvenlik** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/51e8e61aaa6a7d21ddc69955ca7047af67534142dfe148055416eceba1e7303f/detection) |
+| 🛡️ **Güvenlik** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/19aba22263cd63c2719a98547bfbef3ba3e6a42534e5f4a142cb4bd509cea460/detection) |
 | 📂 **Kaynak Kod** | VB6 Proje Dosyaları (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-msCalc/Eval-Calculator-Full_Workspace_v1.0.zip) |
 
 </details>
