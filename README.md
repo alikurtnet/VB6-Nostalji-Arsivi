@@ -98,7 +98,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 #### 🛠️ İndirme ve Kaynak Kod:
 | Dosya / Bilgi | Açıklama | Bağlantı |
 | :--- | :--- | :--- |
-| 📦 **mS-Explorer-Kur (EXE)** | **[Kararlı Sürüm]** Orijinal Windows Kurulum Paketi | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS-Explorer-Kur.exe) |
+| 📦 **mS-Explorer-Kur (EXE)** | **[Orijinal Windows Kurulum Paketi]** | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS-Explorer-Kur.exe) |
 | 🛡️ **Güvenlik (v1.0.0)** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/a180d4966ad544f3cca5b2fca0c7d82fdcd6d3e57b889ba216b6c00189d2aabf/detection) |
 | 📂 **Kaynak Kod** | Tam Çalışma Ortamı (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS_Explorer_Full_Workspace_v1.0.zip) |
 
