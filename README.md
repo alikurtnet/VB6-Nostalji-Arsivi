@@ -100,7 +100,6 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 | :--- | :--- | :--- |
 | 📦 **mS-Explorer-Kur (EXE)** | **[Kararlı Sürüm]** Orijinal Windows Kurulum Paketi | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS-Explorer-Kur.exe) |
 | 🛡️ **Güvenlik (v1.0.0)** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/a180d4966ad544f3cca5b2fca0c7d82fdcd6d3e57b889ba216b6c00189d2aabf/detection) |
-| 🚀 **mS_Explorer_v2a (EXE)** | **[Öncü Sürüm]** En yeni özellikleri içeren test derlemesi *(AV İtibar Analizindedir)* | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS_Explorer_v2a.exe) |
 | 📂 **Kaynak Kod** | Tam Çalışma Ortamı (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS_Explorer_Full_Workspace_v1.0.zip) |
 
 > 💡 **v2a Güvenlik Notu:** Bu yeni derleme, antivirüs motorlarının bulut/itibar (cloud reputation) davranışlarını gözlemlemek amacıyla TotalVirus gibi platformlara hemen yansıtılmamıştır. Geçmiş kararlı sürümlerimizin güvenilirliği ve AV devlerinin (Microsoft Defender vb.) onayları ışığında dosyamız tamamen güvenlidir. İlk etapta (yeni derleme olmasından ötürü) en fazla 1-2 yerel AV motorunun hatalı (False-Positive) uyarı verebileceği öngörülmektedir, bu durum tamamen geçicidir.
