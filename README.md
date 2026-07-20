@@ -99,7 +99,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 | Dosya / Bilgi | Açıklama | Bağlantı |
 | :--- | :--- | :--- |
 | 📦 **mS-Explorer-Kur (EXE)** | **[Kararlı Sürüm]** Orijinal Windows Kurulum Paketi | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS-Explorer-Kur.exe) |
-| 🛡️ **Güvenlik (v1.0.0)** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/22477bb52a0594af4da6445e7d8b8d60e9b296a82f34e572d14c34d9fa20d67a/detection) |
+| 🛡️ **Güvenlik (v1.0.0)** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/a180d4966ad544f3cca5b2fca0c7d82fdcd6d3e57b889ba216b6c00189d2aabf/detection) |
 | 🚀 **mS_Explorer_v2a (EXE)** | **[Öncü Sürüm]** En yeni özellikleri içeren test derlemesi *(AV İtibar Analizindedir)* | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS_Explorer_v2a.exe) |
 | 📂 **Kaynak Kod** | Tam Çalışma Ortamı (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS_Explorer_Full_Workspace_v1.0.zip) |
 
