@@ -95,6 +95,18 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 * **Görsel İyileştirmeler:** Uygulama içi ikon setleri optimize edilerek modern ve daha net bir arayüz görünümü sağlandı.
 * *Not: Bu öncü sürüm, itibar (reputation) süreci tamamlandıktan sonra ilerleyen aylarda doğrudan ana mS_Explorer.exe dosyasının yerini alacaktır.*
 
+#### 🔑 Şifreleme ve SHA Dosya Listeleme Modülü (Sifreleme-SHA-FileList.exe):
+<p>Dizin içerisindeki tüm dosyaların benzersiz SHA-256 (Hash) değerlerini topluca hesaplayan, dosya bütünlüğü doğrulama ve veri güvenliği kontrollerini hızlandıran bağımsız yardımcı araçtır.</p>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/alikurtnet/VB6-Nostalji-Arsivi/main/images/explorer/Sifreleme-SHA-FileList.png" alt="Sifreleme SHA FileList Arayüzü" width="60%">
+</div>
+
+| Dosya / Bilgi | Açıklama | Bağlantı |
+| :--- | :--- | :--- |
+| ⚡ **Sifreleme-SHA-FileList (EXE)** | Bağımsız SHA Listeleme Modülü | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/Sifreleme-SHA-FileList.exe) |
+| 🛡️ **Güvenlik** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/f129ec3b392364ed24edb3b258d60c9f2aff0b7b2df9145a9996684bbdcdc93f/detection) |
+
 #### 🛠️ İndirme ve Kaynak Kod:
 | Dosya / Bilgi | Açıklama | Bağlantı |
 | :--- | :--- | :--- |
@@ -136,7 +148,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 * **Zekâ ve Kelime Dağarcığı:**
     * **Adam Asmaca:** Türkçe/İngilizce sözlük desteği ve harf seslendirme özelliği.
     * **4 Resim 1 Kelime:** Görsel ve kavramsal bağ kurma, dil geliştirme.
-    * **Zincirleme Harfler:** Komşu harflerle kelime türetme and puan katlama (Zekâ & Şans).
+    * **Zincirleme Harfler:** Komşu harflerle kelime türetme ve puan katlama (Zekâ & Şans).
 * **Matematik ve Mantık:**
     * **Hızlı Matematik:** Zamanla yarışarak doğru kavrama ve işlem yetisi kazanma.
     * **Sudoku & Puzzle:** Klasik mantık yürütme ve dikkat geliştirme bulmacaları.
@@ -168,7 +180,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 </div>
 
 #### ✨ Öne Çıkan Özellikler:
-* **Hızlı Görev Yönetimi:** Kaynak ve hedon klasör tanımlamalarını hafızada tutarak tek tuşla senkronizasyon sağlama.
+* **Hızlı Görev Yönetimi:** Kaynak ve hedef klasör tanımlamalarını hafızada tutarak tek tuşla senkronizasyon sağlama.
 * **Antivirüs Dostu Çekirdek:** Windows'un alt kabuk ve kayıt mekanizmalarıyla tam uyumlu çalışan, tarama filtrelerine takılmayan şeffaf altyapı.
 * **Yalın Tasarım:** Gereksiz hiçbir görsel yük barındırmayan, doğrudan performansa ve amaca odaklı VB6 arabirimi.
 * **Eğitim Odaklı Açık Kaynak:** Kodların sadeleştirilmiş ve budanmış mimarisi sayesinde, kütüphane yönetimini anlamak isteyen öğrenciler için kusursuz bir mehaz (referans).
@@ -176,7 +188,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 #### 🛠️ İndirme ve Kaynak Kod:
 | Dosya / Bilgi | Açıklama | Bağlantı |
 | :--- | :--- | :--- |
-| 💿 **mS-RoboCopy-SetUp (EXE)** | Kurulum ve Entegrasyon Paketi | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0/mS-RoboCopy-SetUp.exe) 
+| 💿 **mS-RoboCopy-SetUp (EXE)** | Kurulum ve Entegrasyon Paketi | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0/mS-RoboCopy-SetUp.exe) |
 | 🛡️ **Güvenlik** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/9fbc7210477c7eb629c158df4ef30db038bfbf1a93e68309dd6f20a45751adab/detection) |
 | 📂 **Kaynak Kod** | Açık Kaynak Kod Dünyası (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0/RoboCopy-OpenSource-v1.0.0.zip) |
 
