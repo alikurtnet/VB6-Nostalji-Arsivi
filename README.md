@@ -95,18 +95,6 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 * **Görsel İyileştirmeler:** Uygulama içi ikon setleri optimize edilerek modern ve daha net bir arayüz görünümü sağlandı.
 * *Not: Bu öncü sürüm, itibar (reputation) süreci tamamlandıktan sonra ilerleyen aylarda doğrudan ana mS_Explorer.exe dosyasının yerini alacaktır.*
 
-#### 🔑 Şifreleme ve SHA Dosya Listeleme Modülü (Sifreleme-SHA-FileList.exe):
-<p>Dizin içerisindeki tüm dosyaların benzersiz SHA-256 (Hash) değerlerini topluca hesaplayan, dosya bütünlüğü doğrulama ve veri güvenliği kontrollerini hızlandıran bağımsız yardımcı araçtır.</p>
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/alikurtnet/VB6-Nostalji-Arsivi/main/images/explorer/Sifreleme-SHA-FileList.png" alt="Sifreleme SHA FileList Arayüzü" width="60%">
-</div>
-
-| Dosya / Bilgi | Açıklama | Bağlantı |
-| :--- | :--- | :--- |
-| ⚡ **Sifreleme-SHA-FileList (EXE)** | Bağımsız SHA Listeleme Modülü | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/Sifreleme-SHA-FileList.exe) |
-| 🛡️ **Güvenlik** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/f129ec3b392364ed24edb3b258d60c9f2aff0b7b2df9145a9996684bbdcdc93f/detection) |
-
 #### 🛠️ İndirme ve Kaynak Kod:
 | Dosya / Bilgi | Açıklama | Bağlantı |
 | :--- | :--- | :--- |
@@ -117,6 +105,20 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 | 📂 **Kaynak Kod** | Tam Çalışma Ortamı (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS_Explorer_Full_Workspace_v1.0.zip) |
 
 > 💡 **Güvenlik Notu:** Güncel kurulum paketimizde (yeni derleme olmasından ötürü) bulut/itibar tabanlı bazı AV motorlarında geçici hatalı uyarılar (False-Positive) görülebilmektedir. Bu durumun önüne geçmek ve kullanıcılarımızın güvenle ilerleyebilmesi amacıyla, Microsoft ve diğer otoriteler nezdinde temizlik onayı alınmış **mS-Explorer-Kur-Clean.exe** (Onaylı Eski Sürüm) alternatif olarak listeye eklenmiştir. Her iki dosyamız da tamamen güvenlidir.
+
+<hr>
+
+#### 🔑 Şifreleme ve SHA Dosya Listeleme Modülü (Sifreleme-SHA-FileList.exe):
+<p>Dizin içerisindeki tüm dosyaların benzersiz SHA-256 (Hash) değerlerini topluca hesaplayan, dosya bütünlüğü doğrulama ve veri güvenliği kontrollerini hızlandıran bağımsız yardımcı araçtır.</p>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/alikurtnet/VB6-Nostalji-Arsivi/main/images/explorer/Sifreleme-SHA-FileList.png" alt="Sifreleme SHA FileList Arayüzü" width="60%">
+</div>
+
+| Dosya / Bilgi | Açıklama | Bağlantı |
+| :--- | :--- | :--- |
+| ⚡ **Sifreleme-SHA-FileList (EXE)** | Bağımsız SHA Listeleme Modülü | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/Sifreleme-SHA-FileList.exe) |
+| 🛡️ **SHA Modülü Güvenlik** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/f129ec3b392364ed24edb3b258d60c9f2aff0b7b2df9145a9996684bbdcdc93f/detection) |
 
 </details>
 
