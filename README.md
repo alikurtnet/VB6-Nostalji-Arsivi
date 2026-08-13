@@ -165,7 +165,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 | :--- | :--- | :--- |
 | 💿 **Game-Game (EXE)** | Oyun Kurulum Paketi | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Game/Game-SetUp.exe) |
 | 🛡️ **Güvenlik** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/168d3f1b65c406a93595960e591bdeafd6b72aa1b0e6c3583ffa9de80c0008dc/detection) |
-| 🛡️ **Microsoft Raporu** | Microsoft Defender Temiz Raporu (pdf) | [Görüntüle-İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Game/microsoft-defender-clean-report.pdf.pdf) |
+| 🛡️ **Microsoft Raporu** | Microsoft Defender Temiz Raporu (pdf) | [Görüntüle-İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Game/microsoft-defender-clean-report-EN.pdf) |
 | 📂 **Kaynak Kod** | Tüm Oyun Kaynakları (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Game/mS-Game-Full_Workspace_v1.0.zip) |
 
 </details>
