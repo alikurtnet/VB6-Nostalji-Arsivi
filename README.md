@@ -100,7 +100,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 | :--- | :--- | :--- |
 | 📦 **mS-Explorer-Kur (EXE)** | **Windows Kurulum Paketi (Güncel)** | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS-Explorer-Kur.exe) |
 | 📦 **mS-Explorer-Kur-Clean (EXE)** | **Windows Kurulum Paketi (Microsoft Onaylı Eski Sürüm)** | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS-Explorer-Kur-Clean.exe) |
-| 🛡️ **Güvenlik (Güncel)** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/848e146331080dea4cc803d7e8d05e1f0a291c815726496ab45d7518d77383ae/detection) |
+| 🛡️ **Güvenlik (Güncel)** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/a6814319877028b3b0d8b9c0e49b8b23d6cfe011a9a3bde2f73f1969677d633b/detection) |
 | 🛡️ **Güvenlik (Onaylı Sürüm)** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/22477bb52a0594af4da6445e7d8b8d60e9b296a82f34e572d14c34d9fa20d67a?nocache=1) |
 | 📂 **Kaynak Kod** | Tam Çalışma Ortamı (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS_Explorer_Full_Workspace_v1.0.zip) |
 
@@ -117,8 +117,8 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 
 | Dosya / Bilgi | Açıklama | Bağlantı |
 | :--- | :--- | :--- |
-| ⚡ **Sifreleme-SHA-FileList (EXE)** | Bağımsız SHA Listeleme Modülü | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/Sifreleme-SHA-FileList.exe) |
-| 🛡️ **SHA Modülü Güvenlik** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/f129ec3b392364ed24edb3b258d60c9f2aff0b7b2df9145a9996684bbdcdc93f/detection) |
+| ⚡ **Sifreleme-SHA-FileList (EXE)** | Bağımsız SHA Listeleme Modülü | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/Sifreleme-SHA-FileList-SetUp.exe) |
+| 🛡️ **SHA Modülü Güvenlik** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/49c5a2278c13de700154f02f0016281fe5f94407d3c7b3cc8495ab9ff80236be/detection) |
 
 </details>
 
