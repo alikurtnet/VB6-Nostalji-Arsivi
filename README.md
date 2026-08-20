@@ -120,6 +120,11 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 | ⚡ **Sifreleme-SHA-FileList (EXE)** | Bağımsız SHA Listeleme Modülü | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/Sifreleme-SHA-FileList-SetUp.exe) |
 | 🛡️ **SHA Modülü Güvenlik** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/49c5a2278c13de700154f02f0016281fe5f94407d3c7b3cc8495ab9ff80236be/detection) |
 
+> ⚠️ **Güvenlik Notu:** Bu modül, yakın zamanda yapılan derleme güncellemesi nedeniyle
+> bazı bulut/itibar tabanlı AV motorlarında geçici olarak hatalı işaretlenmektedir
+> (False-Positive). Microsoft ve ilgili otoritelere temizlik başvurusu yapılmıştır;
+> süreç tamamlandığında bu not kaldırılacaktır. Kaynak kodu şeffaf şekilde
+> paylaşılmaktadır, dilerseniz kendiniz derleyip doğrulayabilirsiniz.
 </details>
 
 <details open>
