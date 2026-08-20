@@ -108,7 +108,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 
 <hr>
 
-#### 🔑 Şifreleme ve SHA Dosya Listeleme Modülü (Sifreleme-SHA-FileList.exe):
+<h4 id="sifreleme">🔑 Şifreleme ve SHA Dosya Listeleme Modülü (Sifreleme-SHA-FileList.exe) ⚠️</h4>
 <p>Dizin içerisindeki tüm dosyaların benzersiz SHA-256 (Hash) değerlerini topluca hesaplayan, dosya bütünlüğü doğrulama ve veri güvenliği kontrollerini hızlandıran bağımsız yardımcı araçtır.</p>
 
 <div align="center">
