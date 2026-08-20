@@ -121,10 +121,23 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 | 🛡️ **SHA Modülü Güvenlik** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/49c5a2278c13de700154f02f0016281fe5f94407d3c7b3cc8495ab9ff80236be/detection) |
 
 > ⚠️ **Güvenlik Notu:** Bu modül, yakın zamanda yapılan derleme güncellemesi nedeniyle
-> bazı bulut/itibar tabanlı AV motorlarında geçici olarak hatalı işaretlenmektedir
-> (False-Positive). Microsoft ve ilgili otoritelere temizlik başvurusu yapılmıştır;
-> süreç tamamlandığında bu not kaldırılacaktır. Kaynak kodu şeffaf şekilde
-> paylaşılmaktadır, dilerseniz kendiniz derleyip doğrulayabilirsiniz.
+> bazı bulut/itibar tabanlı AV motorları tarafından hatalı işaretlenmektedir
+> (False-Positive). Yukarıdaki **VirusTotal Tarama Raporu**'na göre 68 motordan
+> yalnızca 2'si bu şekilde bir uyarı veriyor; büyük çoğunluk dosyayı güvenli
+> olarak işaretlemektedir.
+>
+> Windows Defender uyarı gösterirse, **Virüs ve tehdit koruması → Ayarları
+> yönet → Dışlamalar** yolunu izleyerek ilgili dizini/dosyayı güvenilir
+> listesine ekleyebilirsiniz.
+>
+> İleriki aşamalarda ilgili motorlara resmi temizlik (false-positive) başvurusu
+> yapılması planlanmaktadır. Bu süreçle ilgili örnek olarak: arşivdeki
+> **Game-SetUp.exe** için daha önce Microsoft'tan temiz rapor alınmış olup
+> ilgili PDF yukarıdaki oyun bölümünde paylaşılmıştır; benzer şekilde
+> mS_Explorer'ın eski sürümü **mS-Explorer-Kur-Clean.exe** için de VirusTotal'da
+> 0/67 oranında temiz bir tarama sonucu elde edilmişti (SHA-256:
+> `22477bb52a0594af4da6445e7d8b8d60e9b296a82f34e572d14c34d9fa20d67a`) — ancak bu
+> dosya o dönemde Microsoft'un kendi kayıt sistemine resmi olarak işlenememişti.
 </details>
 
 <details open>
