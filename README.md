@@ -100,7 +100,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 | :--- | :--- | :--- |
 | 📦 **mS-Explorer-Kur (EXE)** | **Windows Kurulum Paketi (Güncel)** | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS-Explorer-Kur.exe) |
 | 📦 **mS-Explorer-Kur-Clean (EXE)** | **Windows Kurulum Paketi (Microsoft Onaylı Eski Sürüm)** | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS-Explorer-Kur-Clean.exe) |
-| 🛡️ **Güvenlik (Güncel)** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/a6814319877028b3b0d8b9c0e49b8b23d6cfe011a9a3bde2f73f1969677d633b/detection) |
+| 🛡️ **Güvenlik (Güncel)** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/902c24163e2736b3246db4e7989cf300416874714f903b922fd138086f1adbb3/detection) |
 | 🛡️ **Güvenlik (Onaylı Sürüm)** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/22477bb52a0594af4da6445e7d8b8d60e9b296a82f34e572d14c34d9fa20d67a?nocache=1) |
 | 📂 **Kaynak Kod** | Tam Çalışma Ortamı (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS_Explorer_Full_Workspace_v1.0.zip) |
 
