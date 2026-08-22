@@ -99,13 +99,11 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 | Dosya / Bilgi | Açıklama | Bağlantı |
 | :--- | :--- | :--- |
 | 📦 **mS-Explorer-Kur (EXE)** | **Windows Kurulum Paketi (Güncel)** | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS-Explorer-Kur.exe) |
-| 📦 **mS-Explorer-Kur-Clean (EXE)** | **Windows Kurulum Paketi (Microsoft Onaylı Eski Sürüm)** | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS-Explorer-Kur-Clean.exe) |
 | 🛡️ **Güvenlik (Güncel)** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/902c24163e2736b3246db4e7989cf300416874714f903b922fd138086f1adbb3/detection) |
-| 🛡️ **Güvenlik (Onaylı Sürüm)** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/22477bb52a0594af4da6445e7d8b8d60e9b296a82f34e572d14c34d9fa20d67a?nocache=1) |
+| 🛡️ **Microsoft Raporu** | Microsoft Defender Temiz Raporu (pdf) | [Görüntüle-İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/microsoft-defender-report-ms-explorer-2026-08-EN.pdf) |
 | 📂 **Kaynak Kod** | Tam Çalışma Ortamı (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS_Explorer_Full_Workspace_v1.0.zip) |
 
-> 💡 **Güvenlik Notu:** Güncel kurulum paketimizde (yeni derleme olmasından ötürü) bulut/itibar tabanlı bazı AV motorlarında geçici hatalı uyarılar (False-Positive) görülebilmektedir. Bu durumun önüne geçmek ve kullanıcılarımızın güvenle ilerleyebilmesi amacıyla, Microsoft ve diğer otoriteler nezdinde temizlik onayı alınmış **mS-Explorer-Kur-Clean.exe** (Onaylı Eski Sürüm) alternatif olarak listeye eklenmiştir. Her iki dosyamız da tamamen güvenlidir.
-
+> 💡 **Güvenlik Notu:** Kurulum paketimiz Microsoft Security Intelligence bünyesinde analiz edilmiş, yanlış alarm (False-Positive) kaydı düzeltilerek temizlik onayı almıştır. VirusTotal üzerindeki hatalı işaretleme de kaldırılmıştır. Dosyamızı güvenle indirip kullanabilirsiniz.
 <hr>
 
 <h4 id="sifreleme">🔑 Şifreleme ve SHA Dosya Listeleme Modülü (Sifreleme-SHA-FileList.exe) ⚠️</h4>
