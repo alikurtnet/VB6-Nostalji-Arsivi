@@ -120,6 +120,8 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 | ⚡ **Sifreleme-SHA-FileList (EXE)** | Bağımsız SHA Listeleme Modülü | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/Sifreleme-SHA-FileList-SetUp.exe) |
 | 🛡️ **SHA Modülü Güvenlik** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/0cccef603066222ef6f5984467aafc3bc101d2793408fa18da6602ced888bd25/detection) |
 | 🛡️ **Microsoft Raporu** | Microsoft Defender Temiz Raporu (pdf) | [Görüntüle-İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/microsoft-defender-report-ms-sifrele-2026-08.pdf) |
+| 📦 **Sifreleme-SHA-FileList-Beta (EXE)** | Bağımsız SHA Listeleme Modülü | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/Sifreleme-SHA-FileList-SetUp-Beta.exe) |
+
 
 > ⚠️ **Güvenlik Notu:** Bu modül, yakın zamanda yapılan derleme güncellemesi nedeniyle
 > bazı bulut/itibar tabanlı AV motorları tarafından hatalı işaretlenmektedir
@@ -212,6 +214,8 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 | 💿 **mS-RoboCopy-SetUp (EXE)** | Kurulum ve Entegrasyon Paketi | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0/mS-RoboCopy-SetUp.exe) |
 | 🛡️ **Güvenlik** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/598e3210fdeffbfc854f014b8cd51376cef61ef1bff04e470fd70c2a907a3990/detection) |
 | 📂 **Kaynak Kod** | Açık Kaynak Kod Dünyası (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0/RoboCopy-OpenSource-v1.0.0.zip) |
+| 📦 **mS-RoboCopy-SetUp-Beta (EXE)** | Kurulum ve Entegrasyon Paketi | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0/mS-RoboCopy-SetUp-Beta.exe) |
+
 
 </details>
 
