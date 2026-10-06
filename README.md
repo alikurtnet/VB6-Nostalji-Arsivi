@@ -211,10 +211,10 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 #### 🛠️ İndirme ve Kaynak Kod:
 | Dosya / Bilgi | Açıklama | Bağlantı |
 | :--- | :--- | :--- |
-| 💿 **mS-RoboCopy-SetUp (EXE)** | Kurulum ve Entegrasyon Paketi | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0/mS-RoboCopy-SetUp.exe) |
+| 💿 **mS-RoboCopy-SetUp (EXE)** | Windows Kurulum Paketi (Kararlı Sürüm), bağımsız kurulur; isteğe bağlı sağ tık menüsü içerir | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0/mS-RoboCopy-SetUp.exe) |
 | 🛡️ **Güvenlik** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/598e3210fdeffbfc854f014b8cd51376cef61ef1bff04e470fd70c2a907a3990/detection) |
 | 📂 **Kaynak Kod** | Açık Kaynak Kod Dünyası (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0/RoboCopy-OpenSource-v1.0.0.zip) |
-| 📦 **mS-RoboCopy-SetUp-Beta (EXE)** | Kurulum ve Entegrasyon Paketi | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0/mS-RoboCopy-SetUp-Beta.exe) |
+| 📦 **mS-RoboCopy-SetUp-Beta (EXE)** | Windows Kurulum Paketi (Beta, daha yeni sürüm) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0/mS-RoboCopy-SetUp-Beta.exe) |
 
 
 </details>
