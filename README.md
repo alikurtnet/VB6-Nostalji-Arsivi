@@ -102,7 +102,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 | 🛡️ **Güvenlik (Güncel)** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/902c24163e2736b3246db4e7989cf300416874714f903b922fd138086f1adbb3/detection) |
 | 🛡️ **Microsoft Raporu** | Microsoft Defender Temiz Raporu (pdf) | [Görüntüle-İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/microsoft-defender-report-ms-explorer-2026-08-EN.pdf) |
 | 📂 **Kaynak Kod** | Tam Çalışma Ortamı (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS_Explorer_Full_Workspace_v1.0.zip) |
-| 📦 **mS-Explorer-Kur-Beta (EXE)** | mS-Explorer Kurulum Paketi (v5.6.17 Beta) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS-Explorer-Kur-Beta.exe) |
+| 📦 **mS-Explorer-Kur-Beta (EXE)** | Windows Kurulum Paketi (Beta) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS-Explorer-Kur-Beta.exe) |
 
 
 > 💡 **Güvenlik Notu:** Kurulum paketimiz Microsoft Security Intelligence bünyesinde analiz edilmiş, yanlış alarm (False-Positive) kaydı düzeltilerek temizlik onayı almıştır. VirusTotal üzerindeki hatalı işaretleme de kaldırılmıştır. Dosyamızı güvenle indirip kullanabilirsiniz.
