@@ -122,6 +122,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 
 | Dosya / Bilgi | Açıklama | Bağlantı |
 | :--- | :--- | :--- |
+| 📂 **Kaynak Kod** | Şifreleme Aracı (Python) Kaynak Kodu (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/SifrelemeApp-Source-v1.0.zip) |
 | ⚡ **Sifreleme-SHA-FileList (EXE)** | Windows Kurulum Paketi (Kararlı Sürüm) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/Sifreleme-SHA-FileList-SetUp.exe) |
 | 🛡️ **VirusTotal Raporu (Kararlı)** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/0cccef603066222ef6f5984467aafc3bc101d2793408fa18da6602ced888bd25/detection) |
 | 🛡️ **Microsoft Raporu** | Microsoft Defender tarama raporu (PDF, 2026-08) | [Görüntüle-İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/microsoft-defender-report-ms-sifrele-2026-08.pdf) |
