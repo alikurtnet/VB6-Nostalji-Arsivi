@@ -20,22 +20,26 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
         <td>
             ⚠️ <b>ÖNEMLİ (Teknoloji ve Güvenlik Notu):</b> 
             <br><br>
-            <b>[TR]</b> Bu arşivdeki uygulamalar <b>Visual Basic 6 (VB6)</b> tabanlıdır. Günümüz modern antivirüs motorları, VB6'nın kullandığı ActiveX/DLL kütüphane yapılarını "eski teknoloji" kategorisinde değerlendirmekte ve bazen bu dosyalara (False Positive) hatalı bir ön kabulle şüpheli etiketi yapıştırabilmektedir. Bu durum, tamamen yazılımın yaşı ve kütüphane kayıt yöntemleriyle (Self-Registration) ilgilidir.
+            <b>[TR]</b> Bu arşivdeki uygulamalar (Python tabanlı Şifreleme Aracı hariç) <b>Visual Basic 6 (VB6)</b> tabanlıdır. Günümüz modern antivirüs motorları, VB6'nın kullandığı ActiveX/DLL kütüphane yapılarını "eski teknoloji" kategorisinde değerlendirmekte ve bazen bu dosyalara (False Positive) hatalı bir ön kabulle şüpheli etiketi yapıştırabilmektedir. Bu durum, tamamen yazılımın yaşı ve kütüphane kayıt yöntemleriyle (Self-Registration) ilgilidir.
             <br><br>
             Şeffaflık ve güven için:
             <ul>
                 <li>Modern sistemlerde stabil çalışma ve DLL çakışmalarını önlemek için <b>Setup (EXE)</b> paketleri tercih edilmiştir.</li>
                 <li>Her yayının altında tam <b>Kaynak Kodları (Source Code)</b> açıkça sunulmuştur.</li>
-                <li>Uygulamaları <b>Yönetici Olarak</b> çalıştırmanız, eski kütüphanelerin Windows çekirdeğine güvenli bir şekilde tanıtılması için önerilir.</li>
+                <li>VB6 tabanlı uygulamalar açılışta <b>yönetici yetkisi</b> ister (Windows UAC onay penceresi görünür); bu, uygulamaların VB6 çekirdeğinden gelen bir özelliğidir.</li>
+                <li>Uygulamalar dijital imzalı olmadığından Windows "Bilinmeyen yayımcı" uyarısı gösterebilir.</li>
+                <li>VB6 çalışma zamanı bileşenleri (OCX/DLL), kurulum sırasında sistem klasörüne kopyalanıp kaydedilir ve kaldırma sırasında silinmez.</li>
             </ul>
             <hr>
-            <b>[EN]</b> The applications in this archive are <b>Visual Basic 6 (VB6)</b> based. Modern antivirus engines often flag VB6-specific ActiveX/DLL structures as suspicious (False Positive) due to the legacy nature of the technology and its self-registration methods.
+            <b>[EN]</b> The applications in this archive (except the Python-based Encryption Tool) are <b>Visual Basic 6 (VB6)</b> based. Modern antivirus engines often flag VB6-specific ActiveX/DLL structures as suspicious (False Positive) due to the legacy nature of the technology and its self-registration methods.
             <br><br>
             For transparency and security:
             <ul>
-                <li><b>Setup (MSI/EXE)</b> packages are provided to ensure library registration and system stability.</li>
+                <li><b>Setup (EXE)</b> packages are provided to ensure library registration and system stability.</li>
                 <li>Full <b>Source Code</b> is included with every release.</li>
-                <li>Running the apps as <b>Administrator</b> is recommended for proper registration of legacy components.</li>
+                <li>The VB6-based applications request <b>administrator privileges</b> at startup (a Windows UAC prompt appears); this is a characteristic of the VB6 core executables.</li>
+                <li>The applications are not digitally signed, so Windows may show an "Unknown publisher" warning.</li>
+                <li>VB6 runtime components (OCX/DLL) are copied to the system folder and registered during setup; they are not removed during uninstall.</li>
             </ul>
         </td>
     </tr>
@@ -85,11 +89,12 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 #### ✨ Öne Çıkan Özellikler:
 * **Akıllı Dosya Yönetimi:** Windows Gezgini mantığında hızlı erişim, kategorize edilmiş dosya indeksleme ve gelişmiş arama motoru.
 * **mS_RoboCopy Arayüzü:** Karmaşık RoboCopy komutlarını görselleştiren, güvenli ve hızlı veri yedekleme modülü.
+* **RoboCopy Dahil:** Kurulum paketi mS-RoboCopy'yi içerir; RoboCopy sağ tık menüsü kurulumda isteğe bağlı bir bileşendir.
 * **Sistem Bakım Araçları:** Kayıt Defteri (Registry) düzenleyici, sistem kilitlerini açma ve ActiveX/DLL kütüphane yönetim yardımcıları.
 * **Kapsamlı Altyapı:** Onlarca modül ve yüzlerce formdan oluşan, VB6'nın sınırlarını zorlayan modüler mimari.
-* **Güvenli Dağıtım:** Gerekli tüm sistem bileşenlerinin hatasız kaydedilmesi için profesyonel kurulum paketi.
+* **Hazır Kurulum Paketi:** Gerekli tüm sistem bileşenlerinin hatasız kaydedilmesi için hazırlanmış profesyonel kurulum paketi.
 
-#### 🚀 mS_Explorer v2a (Öncü / Gelişmiş Sürüm) Yenilikleri:
+#### 🚀 mS_Explorer v2a (Öncü / Gelişmiş Sürüm - Beta) Yenilikleri:
 * **Özel Filtreleme Sistemi:** İçerik listeleme bölümüne, verilere çok daha hızlı ulaşmanızı sağlayacak **Özel ComboBox filtreleme özelliği** eklendi.
 * **Gelişmiş Dosya Doğrulama:** Toplu entegrasyon ve veri bütünlüğü takipleri için **Toplu SHA (Hash) Tarama modülü** sisteme dahil edildi.
 * **Görsel İyileştirmeler:** Uygulama içi ikon setleri optimize edilerek modern ve daha net bir arayüz görünümü sağlandı.
@@ -99,17 +104,17 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 | Dosya / Bilgi | Açıklama | Bağlantı |
 | :--- | :--- | :--- |
 | 📦 **mS-Explorer-Kur (EXE)** | **Windows Kurulum Paketi (Kararlı Sürüm)** | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS-Explorer-Kur.exe) |
-| 🛡️ **Güvenlik (Güncel)** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/902c24163e2736b3246db4e7989cf300416874714f903b922fd138086f1adbb3/detection) |
+| 🛡️ **VirusTotal Raporu (Kararlı)** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/902c24163e2736b3246db4e7989cf300416874714f903b922fd138086f1adbb3/detection) |
 | 🛡️ **Microsoft Raporu** | Kararlı sürüm için Microsoft Defender tarama raporu (PDF) | [Görüntüle-İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/microsoft-defender-report-ms-explorer-2026-08-EN.pdf) |
 | 📂 **Kaynak Kod** | Tam Çalışma Ortamı (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS_Explorer_Full_Workspace_v1.0.zip) |
 | 📦 **mS-Explorer-Kur-Beta (EXE)** | Windows Kurulum Paketi (Beta, daha yeni, henüz Defender raporu yok) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS-Explorer-Kur-Beta.exe) |
 
+> 💡 **Güvenlik Notu:** Kararlı sürüm için Microsoft Defender tarama raporu yukarıda PDF olarak sunulmuştur. Sertifikasız, VB6 tabanlı freeware yazılımlarda bazı antivirüs motorları yanlış pozitif (False-Positive) verebilir; güncel sonuç için VirusTotal bağlantısına bakınız. İndirdiğiniz dosyanın SHA-256 değeri VirusTotal sayfasındakiyle aynıysa aynı dosyadır: `902c24163e2736b3246db4e7989cf300416874714f903b922fd138086f1adbb3`
 
-> 💡 **Güvenlik Notu:** Kurulum paketimiz Microsoft Security Intelligence bünyesinde analiz edilmiş, yanlış alarm (False-Positive) kaydı düzeltilerek temizlik onayı almıştır. VirusTotal üzerindeki hatalı işaretleme de kaldırılmıştır. Dosyamızı güvenle indirip kullanabilirsiniz.
 <hr>
 
-<h4 id="sifreleme">🔑 Şifreleme ve SHA Dosya Listeleme Modülü (Sifreleme-SHA-FileList.exe) ⚠️</h4>
-<p>Dizin içerisindeki tüm dosyaların benzersiz SHA-256 (Hash) değerlerini topluca hesaplayan, dosya bütünlüğü doğrulama ve veri güvenliği kontrollerini hızlandıran bağımsız yardımcı araçtır.</p>
+<h4 id="sifreleme">🔑 mS Şifreleme ve Dosya Araçları (Sifreleme-SHA-FileList-SetUp.exe) ⚠️</h4>
+<p>Python tabanlı Şifreleme Aracı (.msfr ilişkilendirmesi) ile VB6 tabanlı kardeş modüllerden oluşan bağımsız kurulum paketidir: SHA-256 Dosya Doğrulama, SHA-256 Klasör Toplu Tarama (dizin içerisindeki tüm dosyaların benzersiz SHA-256 değerlerini topluca hesaplar) ve Esnek Dosya/Klasör İçerik Listeleme (File List Joker). Araçlar Gezgin sağ tık menüsünden kullanılabilir; sağ tık modülleri kurulum sırasında seçilebilir.</p>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/alikurtnet/VB6-Nostalji-Arsivi/main/images/explorer/Sifreleme-SHA-FileList.png" alt="Sifreleme SHA FileList Arayüzü" width="60%">
@@ -117,26 +122,28 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 
 | Dosya / Bilgi | Açıklama | Bağlantı |
 | :--- | :--- | :--- |
-| ⚡ **Sifreleme-SHA-FileList (EXE)** | Bağımsız SHA Listeleme Modülü | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/Sifreleme-SHA-FileList-SetUp.exe) |
-| 🛡️ **SHA Modülü Güvenlik** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/0cccef603066222ef6f5984467aafc3bc101d2793408fa18da6602ced888bd25/detection) |
-| 🛡️ **Microsoft Raporu** | Microsoft Defender Temiz Raporu (pdf) | [Görüntüle-İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/microsoft-defender-report-ms-sifrele-2026-08.pdf) |
-| 📦 **Sifreleme-SHA-FileList-Beta (EXE)** | Bağımsız SHA Listeleme Modülü | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/Sifreleme-SHA-FileList-SetUp-Beta.exe) |
+| ⚡ **Sifreleme-SHA-FileList (EXE)** | Windows Kurulum Paketi (Kararlı Sürüm) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/Sifreleme-SHA-FileList-SetUp.exe) |
+| 🛡️ **VirusTotal Raporu (Kararlı)** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/0cccef603066222ef6f5984467aafc3bc101d2793408fa18da6602ced888bd25/detection) |
+| 🛡️ **Microsoft Raporu** | Microsoft Defender tarama raporu (PDF, 2026-08) | [Görüntüle-İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/microsoft-defender-report-ms-sifrele-2026-08.pdf) |
+| 📦 **Sifreleme-SHA-FileList-Beta (EXE)** | Windows Kurulum Paketi (Beta, daha yeni sürüm) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/Sifreleme-SHA-FileList-SetUp-Beta.exe) |
 
+> ℹ️ Bu paket, mS-Explorer ile aynı kurulum dizinini paylaşır; iki paket birbirinden bağımsız kurulup kaldırılabilir, ortak dosyalar diğer paket kuruluyken silinmez.
 
 > ⚠️ **Güvenlik Notu:** Bu modül, yakın zamanda yapılan derleme güncellemesi nedeniyle
-> bazı bulut/itibar tabanlı AV motorları tarafından hatalı işaretlenmektedir
-> (False-Positive). Yukarıdaki **VirusTotal Tarama Raporu**'na göre 68 motordan
-> yalnızca 2'si bu şekilde bir uyarı veriyor; büyük çoğunluk dosyayı güvenli
-> olarak işaretlemektedir.
+> bazı bulut/itibar tabanlı AV motorları tarafından yanlış pozitif (False-Positive)
+> olarak işaretlenebilmektedir. Yukarıdaki **VirusTotal Tarama Raporu**'nda 68 motordan
+> 2'si uyarı vermiş, 66'sı vermemiştir; güncel sonuç için bağlantıya bakınız.
 >
-> Windows Defender uyarı gösterirse, **Virüs ve tehdit koruması → Ayarları
-> yönet → Dışlamalar** yolunu izleyerek ilgili dizini/dosyayı güvenilir
-> listesine ekleyebilirsiniz.
+> Windows Defender uyarı gösterirse, dışlama eklemeden önce indirdiğiniz dosyanın
+> SHA-256 değerinin VirusTotal sayfasındakiyle aynı olduğunu doğrulayın:
+> `0cccef603066222ef6f5984467aafc3bc101d2793408fa18da6602ced888bd25`
+> Ardından **Virüs ve tehdit koruması → Ayarları yönet → Dışlamalar** yolunu izleyerek
+> ilgili dizini/dosyayı güvenilir listesine ekleyebilirsiniz.
 >
 > İleriki aşamalarda ilgili motorlara resmi temizlik (false-positive) başvurusu
 > yapılması planlanmaktadır. Bu süreçle ilgili örnek olarak: arşivdeki
 > **Game-SetUp.exe** için daha önce Microsoft'tan temiz rapor alınmış olup
-> ilgili PDF yukarıdaki oyun bölümünde paylaşılmıştır; benzer şekilde
+> ilgili PDF aşağıdaki oyun bölümünde paylaşılmıştır; benzer şekilde
 > mS_Explorer'ın eski sürümü **mS-Explorer-Kur-Clean.exe** için de VirusTotal'da
 > 0/67 oranında temiz bir tarama sonucu elde edilmişti (SHA-256:
 > `22477bb52a0594af4da6445e7d8b8d60e9b296a82f34e572d14c34d9fa20d67a`) — ancak bu
@@ -184,7 +191,7 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 #### 🛠️ İndirme ve Kaynak Kod:
 | Dosya / Bilgi | Açıklama | Bağlantı |
 | :--- | :--- | :--- |
-| 💿 **Game-Game (EXE)** | Oyun Kurulum Paketi | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Game/Game-SetUp.exe) |
+| 💿 **Game-SetUp (EXE)** | Oyun Kurulum Paketi | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Game/Game-SetUp.exe) |
 | 🛡️ **Güvenlik** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/168d3f1b65c406a93595960e591bdeafd6b72aa1b0e6c3583ffa9de80c0008dc/detection) |
 | 🛡️ **Microsoft Raporu** | Microsoft Defender Temiz Raporu (pdf) | [Görüntüle-İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Game/microsoft-defender-clean-report-EN.pdf) |
 | 📂 **Kaynak Kod** | Tüm Oyun Kaynakları (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Game/mS-Game-Full_Workspace_v1.0.zip) |
@@ -204,18 +211,22 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 
 #### ✨ Öne Çıkan Özellikler:
 * **Hızlı Görev Yönetimi:** Kaynak ve hedef klasör tanımlamalarını hafızada tutarak tek tuşla senkronizasyon sağlama.
-* **Antivirüs Dostu Çekirdek:** Windows'un alt kabuk ve kayıt mekanizmalarıyla tam uyumlu çalışan, tarama filtrelerine takılmayan şeffaf altyapı.
+* **Şeffaf Altyapı:** Windows'un alt kabuk ve kayıt mekanizmalarıyla uyumlu çalışan, sade ve açık kaynak kodlu yapı.
+* **Gezgin Entegrasyonu:** Klasör, sürücü ve klasör arka planı sağ tık menülerine "RoboCopy: … Yedekle (Kaynak)" komutu eklenir; komut uygulamayı seçilen yol kaynak olarak ayarlanmış şekilde açar, kopyalamayı kendiliğinden başlatmaz.
 * **Yalın Tasarım:** Gereksiz hiçbir görsel yük barındırmayan, doğrudan performansa ve amaca odaklı VB6 arabirimi.
 * **Eğitim Odaklı Açık Kaynak:** Kodların sadeleştirilmiş ve budanmış mimarisi sayesinde, kütüphane yönetimini anlamak isteyen öğrenciler için kusursuz bir mehaz (referans).
 
 #### 🛠️ İndirme ve Kaynak Kod:
 | Dosya / Bilgi | Açıklama | Bağlantı |
 | :--- | :--- | :--- |
-| 💿 **mS-RoboCopy-SetUp (EXE)** | Windows Kurulum Paketi (Kararlı Sürüm), bağımsız kurulur; isteğe bağlı sağ tık menüsü içerir | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0/mS-RoboCopy-SetUp.exe) |
-| 🛡️ **Güvenlik** | VirusTotal Tarama Raporu | [Görüntüle](https://www.virustotal.com/gui/file/598e3210fdeffbfc854f014b8cd51376cef61ef1bff04e470fd70c2a907a3990/detection) |
+| 💿 **mS-RoboCopy-SetUp (EXE)** | **Windows Kurulum Paketi (Kararlı Sürüm)**, bağımsız kurulur; Gezgin sağ tık menüsünü ekler | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0/mS-RoboCopy-SetUp.exe) |
+| 🛡️ **VirusTotal Raporu (Kararlı)** | VirusTotal Tarama Sonucu (0/71, Eylül 2026) | [Görüntüle](https://www.virustotal.com/gui/file/598e3210fdeffbfc854f014b8cd51376cef61ef1bff04e470fd70c2a907a3990/detection) |
 | 📂 **Kaynak Kod** | Açık Kaynak Kod Dünyası (Zip) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0/RoboCopy-OpenSource-v1.0.0.zip) |
-| 📦 **mS-RoboCopy-SetUp-Beta (EXE)** | Windows Kurulum Paketi (Beta, daha yeni sürüm) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0/mS-RoboCopy-SetUp-Beta.exe) |
+| 📦 **mS-RoboCopy-SetUp-Beta (EXE)** | Windows Kurulum Paketi (Beta, daha yeni sürüm; VirusTotal raporu henüz yok) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0/mS-RoboCopy-SetUp-Beta.exe) |
 
+> 🔎 Bu sürüm için VirusTotal taramasında 71 güvenlik motorunun hiçbiri dosyayı işaretlememiştir. Sonuç, taramanın yapıldığı tarihe aittir; güncel durum için bağlantıya bakınız.
+
+> ℹ️ mS-Explorer paketi RoboCopy'yi zaten içerir; bu bağımsız paket yalnızca RoboCopy isteyenler içindir. İki paket ayrı dizinlere kurulur ve birbirinden bağımsız çalışır. mS-RoboCopy kuruluysa mS-Explorer kurulumu RoboCopy sağ tık menüsünü otomatik devre dışı bırakır; mS-Explorer kuruluyken bağımsız RoboCopy kurulursa kurulum sizi uyarır, devam ederseniz Gezgin menüsünde RoboCopy komutu iki kez görünür.
 
 </details>
 
