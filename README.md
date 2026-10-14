@@ -110,8 +110,8 @@ Bu depo, teknik eğitimci ve yazılımcı kimliğimle geliştirdiğim profesyone
 | 📦 **mS-Explorer-Kur-Beta (EXE)** | Windows Kurulum Paketi (Beta, daha yeni, henüz Defender raporu yok) | [İndir](https://github.com/alikurtnet/VB6-Nostalji-Arsivi/releases/download/v1.0.0-Explorer/mS-Explorer-Kur-Beta.exe) |
 
 > 💡 **Güvenlik Notu:** Kararlı sürüm için Microsoft Defender tarama raporu yukarıda PDF olarak sunulmuştur. Sertifikasız, VB6 tabanlı freeware yazılımlarda bazı antivirüs motorları yanlış pozitif (False-Positive) verebilir; güncel sonuç için VirusTotal bağlantısına bakınız. İndirdiğiniz dosyanın SHA-256 değeri VirusTotal sayfasındakiyle aynıysa aynı dosyadır: `902c24163e2736b3246db4e7989cf300416874714f903b922fd138086f1adbb3`
-
 <hr>
+
 
 <h4 id="sifreleme">🔑 mS Şifreleme ve Dosya Araçları (Sifreleme-SHA-FileList-SetUp.exe) ⚠️</h4>
 <p>Python tabanlı Şifreleme Aracı (.msfr ilişkilendirmesi) ile VB6 tabanlı kardeş modüllerden oluşan bağımsız kurulum paketidir: SHA-256 Dosya Doğrulama, SHA-256 Klasör Toplu Tarama (dizin içerisindeki tüm dosyaların benzersiz SHA-256 değerlerini topluca hesaplar) ve Esnek Dosya/Klasör İçerik Listeleme (File List Joker). Araçlar Gezgin sağ tık menüsünden kullanılabilir; sağ tık modülleri kurulum sırasında seçilebilir.</p>
